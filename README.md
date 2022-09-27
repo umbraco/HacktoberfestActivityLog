@@ -1,7 +1,7 @@
-# HacktoberfestActivityLog
+# Hacktoberfest Activity Log
 Hacktoberfest 2022 allows low-code and non-code contributions such as talks, blog posts and organizing events.
 
-Eligibility according to the [Hacktoberfest rules](https://hacktoberfest.com/about/#low-or-non-code) includes, for example:
+Eligible contributions according to the [Hacktoberfest guidelines](https://hacktoberfest.com/about/#low-or-non-code) include, for example:
 
 - Copy editing
 - User experience testing
@@ -9,8 +9,9 @@ Eligibility according to the [Hacktoberfest rules](https://hacktoberfest.com/abo
 - Blog posts
 - Podcasts
 - Case studies
+- Organizing Hacktoberfest events
 
-If you're doing anything significant during Hacktoberfest, like one of the above please create a pull request to this `README` file to track it. For the Digital Ocean Hacktoberfest participation, you need 4 contributions to be eligible for rewards. For the Umbraco specific Hacktoberfest participation you need 2 contributions to be eligible for rewards.
+If you're doing anything significant during Hacktoberfest, like one of the above please create a pull request to this `README.md` file to track it. For the Digital Ocean Hacktoberfest participation, you need 4 contributions to be eligible for rewards. For the Umbraco specific Hacktoberfest participation you need 2 contributions to be eligible for rewards. ⭐ Please make sure to follow the [Hacktoberfest rules](https://hacktoberfest.com/participation/).
 
 And example of a participation entry is:
 
