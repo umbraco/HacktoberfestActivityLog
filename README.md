@@ -1,5 +1,5 @@
 # Hacktoberfest Activity Log
-Hacktoberfest 2022 allows low-code and non-code contributions such as talks, blog posts and organizing events.
+Hacktoberfest 2022 rewards low-code and non-code contributions such as talks, blog posts and organizing events.
 
 Eligible contributions according to the [Hacktoberfest guidelines](https://hacktoberfest.com/about/#low-or-non-code) include, for example:
 
