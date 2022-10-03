@@ -15,7 +15,7 @@ If you're doing anything significant during Hacktoberfest, like one of the above
 
 And example of a participation entry is:
 
-- 2022-10-04 - Paula Philips - Blog post - [How to get started contributing to Umbraco](https://example.com) - Wrote a blog post describing my first time doing a code contribution to Umbraco
+- `- 2022-10-04 - Paula Philips - Blog post - [How to get started contributing to Umbraco](https://example.com) - Wrote a blog post describing my first time doing a code contribution to Umbraco`
 
 So the rough format is (feel free to adapt where needed): `Date - Name - Type of low/no-code contribution - Link - Description`.
 
