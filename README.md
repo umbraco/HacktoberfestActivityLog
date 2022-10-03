@@ -21,3 +21,4 @@ So the rough format is (feel free to adapt where needed): `Date - Name - Type of
 
 ## Low-code / no-code contributions for Hacktoberfest 2022
 
+2022-10-21 - Lotte Pitcher - Hacktoberfest event - [Virtual Umbraco Hacktoberfest Hackathon](https://www.meetup.com/umbracodkmeetup/events/288768494/) - Part of the team organising and promoting the hackathon
