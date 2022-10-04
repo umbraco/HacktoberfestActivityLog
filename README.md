@@ -24,3 +24,4 @@ So the rough format is (feel free to adapt where needed): `Date - Name - Type of
 - 2022-10-21 - Lotte Pitcher - Hacktoberfest event - [Virtual Umbraco Hacktoberfest Hackathon](https://www.meetup.com/umbracodkmeetup/events/288768494/) - Part of the team organising and promoting the hackathon
 - 2022-10-04 - Lee Kelleher - [Umbraco Package Ideas](https://github.com/leekelleher/umbraco-package-ideas) - Refreshed ideas repository for Hacktoberfest 2022
 - 2022-10-07 - Corné Hoskam - Talk - [Empowering Communities with Discord & Umbraco](https://df22.sessionize.com/session/367458) - Utilizing the Discord API to create various powerful Umbraco integrations
+- 2022-10-04 - Dennis Heutinck - New package - https://github.com/Infocaster/ETag - Created a new package that integrates ETag support with Umbraco content pages
