@@ -33,7 +33,7 @@ Contributions:
 - 2022-10-04 - Lee Kelleher - [Umbraco Package Ideas](https://github.com/leekelleher/umbraco-package-ideas) - Refreshed ideas repository for Hacktoberfest 2022
 - 2022-10-07 - Corné Hoskam - Talk - [Empowering Communities with Discord & Umbraco](https://df22.sessionize.com/session/367458) - Utilizing the Discord API to create various powerful Umbraco integrations
 - 2022-10-21 - Emma Burstow - Hacktoberfest event - Virtual Umbraco & Candid Contribs Hacktoberfest Hackathon - Part of the team organising and promoting the hackathon
-
+- 2022-10-07 - Julia Gruszczynska - Presentation - [Web components in Umbraco - crash course](https://youtu.be/R1eF2vtlT68?t=26766) - Gave presentation on DUUG 
 
 ## New Umbraco packages
 
