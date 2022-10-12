@@ -35,6 +35,7 @@ Contributions:
 - 2022-10-21 - Emma Burstow - Hacktoberfest event - Virtual Umbraco & Candid Contribs Hacktoberfest Hackathon - Part of the team organising and promoting the hackathon
 - 2022-10-07 - Julia Gruszczynska - Presentation - [Web components in Umbraco - crash course](https://youtu.be/R1eF2vtlT68?t=26766) - Gave presentation on DUUG 
 - 2022-10-07 - Erik-Jan Westendorp - Presentation - [CI/CD Umbraco Kubernetes](https://df22.sessionize.com/session/374849) - Presentation at DUUG
+- 2022-10-07 - Callum Whyte - Presentation - [Umbraco Anywhere](https://df22.sessionize.com/session/384759) - Presentation at DUUG
 
 ## New Umbraco packages
 
