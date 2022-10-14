@@ -32,7 +32,7 @@ Contributions:
 - 2022-10-21 - Lotte Pitcher - Hacktoberfest event - [Virtual Umbraco Hacktoberfest Hackathon](https://www.meetup.com/umbracodkmeetup/events/288768494/) - Part of the team organising and promoting the hackathon
 - 2022-10-21 - Emma Burstow - Hacktoberfest event - Virtual Umbraco & Candid Contribs Hacktoberfest Hackathon - Part of the team organising and promoting the hackathon
 - 2022-10-19 - Owain Williams & Tom Madden - Hacktoberfest event - Edinburgh Meetup will be hosting a hacktoberfest event focussing on Umbraco CMS & Umbraco Projects
-- 2022-10-10 - Jeroen Breuer - Blog - [DF22 presentation about Umbraco with external login providers]([https://df22.sessionize.com/session/374849](https://www.jeroenbreuer.nl/blog/df22-presentation-about-umbraco-with-external-login-providers/)) - Blog where I share my Powerpoint slides.
+- 2022-10-10 - Jeroen Breuer - Blog - [DF22 presentation about Umbraco with external login providers](https://www.jeroenbreuer.nl/blog/df22-presentation-about-umbraco-with-external-login-providers/) - Blog where I share my Powerpoint slides.
 - 2022-10-07 - Jeroen Breuer - Presentation - [Umbraco with external login providers](https://df22.sessionize.com/session/375069) - Presentation at DUUG
 - 2022-10-07 - Corné Hoskam - Talk - [Empowering Communities with Discord & Umbraco](https://df22.sessionize.com/session/367458) - Utilizing the Discord API to create various powerful Umbraco integrations
 - 2022-10-07 - Julia Gruszczynska - Presentation - [Web components in Umbraco - crash course](https://youtu.be/R1eF2vtlT68?t=26766) - Gave presentation on DUUG 
