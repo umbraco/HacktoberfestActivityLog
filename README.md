@@ -39,6 +39,7 @@ Contributions:
 - 2022-10-07 - Callum Whyte - Presentation - [Umbraco Anywhere](https://df22.sessionize.com/session/384759) - Presentation at DUUG
 - 2022-10-04 - Lee Kelleher - [Umbraco Package Ideas](https://github.com/leekelleher/umbraco-package-ideas) - Refreshed ideas repository for Hacktoberfest 2022
 - 2022-10-07 - Poornima Nayar - [Welcome to the world of Minimal APIs](https://df22.sessionize.com/session/376429) - DF22 Speaker
+- 2022-10-07 - Paul Seal - [Gamifying learning to help the Umbraco Community level up together](https://df22.sessionize.com/session/363665) - DF22 Speaker
 
 ## New Umbraco packages
 
