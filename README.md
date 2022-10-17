@@ -30,8 +30,8 @@ Eligible contributions according to the [Hacktoberfest guidelines](https://hackt
 Contributions:
 
 - 2022-10-21 - Lotte Pitcher - Hacktoberfest event - [Virtual Umbraco Hacktoberfest Hackathon](https://www.meetup.com/umbracodkmeetup/events/288768494/) - Part of the team organising and promoting the hackathon
-- 2022-10-21 - Emma Burstow - Hacktoberfest event - Virtual Umbraco & Candid Contribs Hacktoberfest Hackathon - Part of the team organising and promoting the hackathon
-- 2022-10-19 - Owain Williams & Tom Madden - Hacktoberfest event - Edinburgh Meetup will be hosting a hacktoberfest event focussing on Umbraco CMS & Umbraco Projects
+- 2022-10-21 - Emma Burstow - Hacktoberfest event - [Virtual Umbraco & Candid Contribs Hacktoberfest Hackathon](https://www.meetup.com/umbracodkmeetup/events/288768494/) - Part of the team organising and promoting the hackathon
+- 2022-10-19 - Owain Williams & Tom Madden - Hacktoberfest event - [Edinburgh Meetup](https://www.meetup.com/edinburgh-umbraco-users-group/events/287875883/) will be hosting a hacktoberfest event focussing on Umbraco CMS & Umbraco Projects
 - 2022-10-10 - Jeroen Breuer - Blog - [DF22 presentation about Umbraco with external login providers](https://www.jeroenbreuer.nl/blog/df22-presentation-about-umbraco-with-external-login-providers/) - Blog where I share my Powerpoint slides.
 - 2022-10-07 - Jeroen Breuer - Presentation - [Umbraco with external login providers](https://df22.sessionize.com/session/375069) - Presentation at DUUG
 - 2022-10-07 - Corné Hoskam - Talk - [Empowering Communities with Discord & Umbraco](https://df22.sessionize.com/session/367458) - Utilizing the Discord API to create various powerful Umbraco integrations
@@ -39,6 +39,7 @@ Contributions:
 - 2022-10-07 - Erik-Jan Westendorp - Presentation - [CI/CD Umbraco Kubernetes](https://df22.sessionize.com/session/374849) - Presentation at DUUG
 - 2022-10-07 - Callum Whyte - Presentation - [Umbraco Anywhere](https://df22.sessionize.com/session/384759) - Presentation at DUUG
 - 2022-10-04 - Lee Kelleher - [Umbraco Package Ideas](https://github.com/leekelleher/umbraco-package-ideas) - Refreshed ideas repository for Hacktoberfest 2022
+- 2022-10-07 - Poornima Nayar - [Welcome to the world of Minimal APIs](https://df22.sessionize.com/session/376429) - DF22 Speaker
 
 ## New Umbraco packages
 
