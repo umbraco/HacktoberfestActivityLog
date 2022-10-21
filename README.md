@@ -50,3 +50,4 @@ If you're interested in creating a new package and need some inspiration, have a
 Contributions:
 
 - 2022-10-04 - Dennis Heutinck - New package - https://github.com/Infocaster/ETag - Created a new package that integrates ETag support with Umbraco content pages
+- 2022-10-21 - Lotte Pitcher - New package - [on GitHub](https://github.com/LottePitcher/umbraco-admin-only-property) / [on Our](https://our.umbraco.com/packages/backoffice-extensions/admin-only-property/) - "Admin Only Package": a new package that allows properties to be set for only Administrators to view and edit
