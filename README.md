@@ -41,6 +41,7 @@ Contributions:
 - 2022-10-07 - Poornima Nayar - [Welcome to the world of Minimal APIs](https://df22.sessionize.com/session/376429) - DF22 Speaker
 - 2022-10-07 - Paul Seal - Presentation - [Gamifying Learning](https://df22.sessionize.com/session/363665) - DF22 Speaker
 - 2022-10-12 - Paul Seal - Talk - [Umbraco Melbourne Meetup](https://www.meetup.com/australian-umbraco-meetups/events/283544093/)
+- 2022-10-21 - Carole Logan - Hacktoberfest event - Virtual Umbraco Hacktoberfest Hackathon - Part of the team organising and promoting the hackathon
 
 ## New Umbraco packages
 
