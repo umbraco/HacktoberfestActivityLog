@@ -29,6 +29,7 @@ Eligible contributions according to the [Hacktoberfest guidelines](https://hackt
 
 Contributions:
 
+- 2022-10-21 - Jeroen Breuer - Testing Umbraco 11 Release Candidate - [Umbraco OpenID Connect example package on V11 RC](https://github.com/jbreuer/Umbraco-OpenIdConnect-Example/commit/c3b316e90a29551684a6c66ee1361b4710756ea4) - Tested if OpenID Connect works on V11. It had some bugs and breaking changes going from V9 to V10. On V11 everything works!
 - 2022-10-21 - Lotte Pitcher - Hacktoberfest event - [Virtual Umbraco Hacktoberfest Hackathon](https://www.meetup.com/umbracodkmeetup/events/288768494/) - Part of the team organising and promoting the hackathon
 - 2022-10-21 - Emma Burstow - Hacktoberfest event - [Virtual Umbraco & Candid Contribs Hacktoberfest Hackathon](https://www.meetup.com/umbracodkmeetup/events/288768494/) - Part of the team organising and promoting the hackathon
 - 2022-10-19 - Owain Williams & Tom Madden - Hacktoberfest event - [Edinburgh Meetup](https://www.meetup.com/edinburgh-umbraco-users-group/events/287875883/) will be hosting a hacktoberfest event focussing on Umbraco CMS & Umbraco Projects
