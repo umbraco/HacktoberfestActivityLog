@@ -43,6 +43,7 @@ Contributions:
 - 2022-10-12 - Paul Seal - Talk - [Umbraco Melbourne Meetup](https://www.meetup.com/australian-umbraco-meetups/events/283544093/)
 - 2022-10-21 - Carole Logan - Hacktoberfest event - Virtual Umbraco Hacktoberfest Hackathon - Part of the team organising and promoting the hackathon
 - 2022-10-07 - Rachel Breeze - Presentation [The forgotten users of the CMS](https://df22.sessionize.com/speaker/4009021f-f36e-4b07-b2c0-633805cd9659) - DF22 speaker 
+- 2022-10-22 - Rachel Breeze - PR for [Accessibility on Umbraco packages](https://github.com/umbraco/Umbraco.Packages/pull/154)
 
 
 ## New Umbraco packages
