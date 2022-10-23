@@ -56,3 +56,4 @@ Contributions:
 
 - 2022-10-04 - Dennis Heutinck - New package - https://github.com/Infocaster/ETag - Created a new package that integrates ETag support with Umbraco content pages
 - 2022-10-21 - Lotte Pitcher - New package - [on GitHub](https://github.com/LottePitcher/umbraco-admin-only-property) / [on Our](https://our.umbraco.com/packages/backoffice-extensions/admin-only-property/) - "Admin Only Package": a new package that allows properties to be set for only Administrators to view and edit
+- 2022-10-23 - Andy Boot - New package - https://github.com/AndyBoot/Our.Umbraco.Indexy - A new package to add any number of custom Examine indexes at appsettings.json level. You can add add as many or little fields as you like per field definition type, or general system fields. 
