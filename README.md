@@ -47,6 +47,8 @@ Contributions:
 - 2022-10-21 - Carole Logan - Hacktoberfest event - Virtual Umbraco Hacktoberfest Hackathon - Part of the team organising and promoting the hackathon
 - 2022-10-07 - Rachel Breeze - Presentation [The forgotten users of the CMS](https://df22.sessionize.com/speaker/4009021f-f36e-4b07-b2c0-633805cd9659) - DF22 speaker 
 - 2022-10-22 - Rachel Breeze - PR for [Accessibility on Umbraco packages](https://github.com/umbraco/Umbraco.Packages/pull/154)
+- 2022-10-21 - Tiffany Prosser - Managed issues on the [Accessibility Team Project Issues board](https://github.com/orgs/umbraco/projects/30/views/1) ensuring PR's are reviewed by members of the team
+- 2022-10-24 - Tiffany Prosser - Added [readme.md to the Accessibility Issues](https://github.com/umbraco/Umbraco-CMS.Accessibility.Issues)  
 
 
 ## New Umbraco packages
