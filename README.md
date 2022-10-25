@@ -50,6 +50,7 @@ Contributions:
 - 2022-10-22 - Rachel Breeze - PR for [Accessibility on Umbraco packages](https://github.com/umbraco/Umbraco.Packages/pull/154)
 - 2022-10-21 - Tiffany Prosser - Managed issues on the [Accessibility Team Project Issues board](https://github.com/orgs/umbraco/projects/30/views/1) ensuring PR's are reviewed by members of the team
 - 2022-10-24 - Tiffany Prosser - Added [readme.md to the Accessibility Issues](https://github.com/umbraco/Umbraco-CMS.Accessibility.Issues)  
+- 2022-10-25 - Alex Lovell - Investigation into Accessibility Issues with the Umbraco CMS
 
 
 ## New Umbraco packages
