@@ -27,6 +27,8 @@ Eligible contributions according to the [Hacktoberfest guidelines](https://hackt
 - Case studies
 - Organizing Hacktoberfest events
 
+Contributions:
+
 - 2022-10-22 - Bogdan Kosarevskyi - Submitted article for [Skrift](https://skrift.io/) (**Note from Mike**: verified but removed the details to not spoil the Skrift publication ;-))
 - 2022-10-25 - Jeroen Breuer - Blog and video - [The benefits for Umbraco when used in a composable DXP solution.](https://www.jeroenbreuer.nl/blog/how-sitecore-and-umbraco-can-work-together-in-a-composable-dxp-solution-by-using-the-same-identity-provider/) - It's possible for the same user to login into multiple websites.
 - 2022-10-21 - Jeroen Breuer - Testing Umbraco 11 Release Candidate - [Umbraco OpenID Connect example package on V11 RC](https://github.com/jbreuer/Umbraco-OpenIdConnect-Example/commit/c3b316e90a29551684a6c66ee1361b4710756ea4) - Tested if OpenID Connect works on V11. It had some bugs and breaking changes going from V9 to V10. On V11 everything works!
