@@ -28,6 +28,7 @@ Eligible contributions according to the [Hacktoberfest guidelines](https://hackt
 - Organizing Hacktoberfest events
 
 Contributions:
+- 2022-10-25 - Nurhak Kaya - Submitted article 2 (Why you should upgrade your Umbraco v7 and v8 projects to the latest version of Umbraco v10) for [Skrift](https://skrift.io/)
 
 - 2022-10-22 - Bogdan Kosarevskyi - Submitted article for [Skrift](https://skrift.io/) (**Note from Mike**: verified but removed the details to not spoil the Skrift publication ;-))
 - 2022-10-25 - Jeroen Breuer - Blog and video - [The benefits for Umbraco when used in a composable DXP solution.](https://www.jeroenbreuer.nl/blog/how-sitecore-and-umbraco-can-work-together-in-a-composable-dxp-solution-by-using-the-same-identity-provider/) - It's possible for the same user to login into multiple websites.
