@@ -27,8 +27,8 @@ Eligible contributions according to the [Hacktoberfest guidelines](https://hackt
 - Case studies
 - Organizing Hacktoberfest events
 
-Contributions:
-- 2022-10-22 - Bogdan Kosarevskyi - [Non-standard usage of Umbraco hosted in kubernetes](https://gist.github.com/1k-off/5fe914dce4d71209c096b7be2dc91ef6) - Submitted article for [Skrift](https://skrift.io/)
+- 2022-10-22 - Bogdan Kosarevskyi - Submitted article for [Skrift](https://skrift.io/) (**Note from Mike**: verified but removed the details to not spoil the Skrift publication ;-))
+- 2022-10-25 - Jeroen Breuer - Blog and video - [The benefits for Umbraco when used in a composable DXP solution.](https://www.jeroenbreuer.nl/blog/how-sitecore-and-umbraco-can-work-together-in-a-composable-dxp-solution-by-using-the-same-identity-provider/) - It's possible for the same user to login into multiple websites.
 - 2022-10-21 - Jeroen Breuer - Testing Umbraco 11 Release Candidate - [Umbraco OpenID Connect example package on V11 RC](https://github.com/jbreuer/Umbraco-OpenIdConnect-Example/commit/c3b316e90a29551684a6c66ee1361b4710756ea4) - Tested if OpenID Connect works on V11. It had some bugs and breaking changes going from V9 to V10. On V11 everything works!
 - 2022-10-21 - Lotte Pitcher - Hacktoberfest event - [Virtual Umbraco Hacktoberfest Hackathon](https://www.meetup.com/umbracodkmeetup/events/288768494/) - Part of the team organising and promoting the hackathon
 - 2022-10-21 - Emma Burstow - Hacktoberfest event - [Virtual Umbraco & Candid Contribs Hacktoberfest Hackathon](https://www.meetup.com/umbracodkmeetup/events/288768494/) - Part of the team organising and promoting the hackathon
@@ -56,3 +56,4 @@ Contributions:
 
 - 2022-10-04 - Dennis Heutinck - New package - https://github.com/Infocaster/ETag - Created a new package that integrates ETag support with Umbraco content pages
 - 2022-10-21 - Lotte Pitcher - New package - [on GitHub](https://github.com/LottePitcher/umbraco-admin-only-property) / [on Our](https://our.umbraco.com/packages/backoffice-extensions/admin-only-property/) - "Admin Only Package": a new package that allows properties to be set for only Administrators to view and edit
+- 2022-10-23 - Andy Boot - New package - https://github.com/AndyBoot/Our.Umbraco.Indexy - A new package to add any number of custom Examine indexes at appsettings.json level. You can add add as many or little fields as you like per field definition type, or general system fields. 
