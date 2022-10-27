@@ -51,6 +51,7 @@ Contributions:
 - 2022-10-21 - Tiffany Prosser - Managed issues on the [Accessibility Team Project Issues board](https://github.com/orgs/umbraco/projects/30/views/1) ensuring PR's are reviewed by members of the team
 - 2022-10-24 - Tiffany Prosser - Added [readme.md to the Accessibility Issues](https://github.com/umbraco/Umbraco-CMS.Accessibility.Issues)  
 - 2022-10-25 - Andy Boot - Blog Article - [Umbraco Forms - Add additional attributes to existing field types](https://dev.to/andy_boot/umbraco-forms-add-additional-attributes-to-existing-field-types-4abg)
+- 2022-10-26 - Michaël Latouche - Submitted an article for [Skrift](https://skrift.io/)
 
 ## New Umbraco packages
 
