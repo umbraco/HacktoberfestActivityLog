@@ -56,6 +56,7 @@ Contributions:
 - 2022-10-25 - Andy Boot - Blog Article - [Umbraco Forms - Add additional attributes to existing field types](https://dev.to/andy_boot/umbraco-forms-add-additional-attributes-to-existing-field-types-4abg)
 - 2022-10-26 - Michaël Latouche - Submitted an article for [Skrift](https://skrift.io/)
 - 2022-10-30 - Andy Boot - Blog Article - [Codegarden 2022 - The Umbraco Keynote Breakdown](https://dev.to/andy_boot/codegarden-2022-the-umbraco-keynote-breakdown-5d9j)
+- 2022-10-31 - Alex Lovell - Inveestigation into Accessibility Issues  part 2 (https://github.com/umbraco/Umbraco-CMS/issues/13338)
 
 ## New Umbraco packages
 
