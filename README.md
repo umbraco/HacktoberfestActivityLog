@@ -28,6 +28,8 @@ Eligible contributions according to the [Hacktoberfest guidelines](https://hackt
 - Organizing Hacktoberfest events
 
 Contributions:
+- 2022-10-30 - Nurhak Kaya - Blog - [How to upgrade a Umbraco v4 website to the latest version of v7](https://nurhak-kaya.blogspot.com/2022/10/how-to-upgrade-umbraco-v4-website-to.html) - How to upgrade a Umbraco v4 website to the latest version of v7
+- 2022-10-28 - Nurhak Kaya - Blog - [How to improve the availability and performance of a Umbraco v10+ website by storing 3rd party data in a database](https://nurhak-kaya.blogspot.com/2022/10/how-to-improve-availability-and.html) - How to improve the availability and performance of a Umbraco v10+ website by storing 3rd party data in a database
 - 2022-10-25 - Nurhak Kaya - Submitted article (Why you should upgrade your Umbraco v7 and v8 projects to the latest version of Umbraco v10) for [Skrift](https://skrift.io/)
 - 2022-10-25 - Nurhak Kaya - Submitted article (How I have upgraded my Umbraco v7 project to Umbraco v10) for [Skrift](https://skrift.io/)
 - 2022-10-22 - Bogdan Kosarevskyi - Submitted article for [Skrift](https://skrift.io/) (**Note from Mike**: verified but removed the details to not spoil the Skrift publication ;-))
@@ -51,7 +53,9 @@ Contributions:
 - 2022-10-21 - Tiffany Prosser - Managed issues on the [Accessibility Team Project Issues board](https://github.com/orgs/umbraco/projects/30/views/1) ensuring PR's are reviewed by members of the team
 - 2022-10-24 - Tiffany Prosser - Added [readme.md to the Accessibility Issues](https://github.com/umbraco/Umbraco-CMS.Accessibility.Issues)  
 - 2022-10-25 - Alex Lovell - Investigation into Accessibility Issues with the Umbraco CMS
-
+- 2022-10-25 - Andy Boot - Blog Article - [Umbraco Forms - Add additional attributes to existing field types](https://dev.to/andy_boot/umbraco-forms-add-additional-attributes-to-existing-field-types-4abg)
+- 2022-10-26 - Michaël Latouche - Submitted an article for [Skrift](https://skrift.io/)
+- 2022-10-30 - Andy Boot - Blog Article - [Codegarden 2022 - The Umbraco Keynote Breakdown](https://dev.to/andy_boot/codegarden-2022-the-umbraco-keynote-breakdown-5d9j)
 
 ## New Umbraco packages
 
