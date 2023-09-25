@@ -36,6 +36,7 @@ Contributions:
 
 Eligible contributions are brand new packages (Umbraco plugins) that have not been released on the [Umbraco Marketplace](https://marketplace.umbraco.com/) before October 2023.  
 If you're interested in creating a new package and need some inspiration, have a look at [Lee's list of package ideas](https://github.com/leekelleher/umbraco-package-ideas/issues) (or add your own!).
+Packages for Umbraco 14, also known as Bellissima, are eligible by default, even if the equivalent package already exists for Umbraco 12.
 
 Contributions:
 
