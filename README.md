@@ -38,3 +38,10 @@ Eligible contributions are brand new packages (Umbraco plugins) that have not be
 If you're interested in creating a new package and need some inspiration, have a look at [Lee's list of package ideas](https://github.com/leekelleher/umbraco-package-ideas/issues) (or add your own!).
 
 Contributions:
+
+## Sponsor a GitHub repo
+
+Eligible are pledges of sponsorship to any Umbraco-related GitHub repositories or GitHub profiles (the maintainer of one or more Umbraco related repositories).  
+Please add a screenshot of your first donation to the description of the pull request. If this is a recurring sponsorship, please indicate how long you intend it to run for, otherwise indicate that it's a one-time donation.
+
+Contributions:
