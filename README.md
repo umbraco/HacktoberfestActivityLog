@@ -31,6 +31,7 @@ Eligible contributions according to the [Hacktoberfest guidelines](https://hackt
 - Organizing Hacktoberfest events
 
 Contributions:
+- 03/10 - Roy Berris - Hacktoberfest event - iodigital.com - A (internal) hacktoberfest meetup with 12 colleagues attempting PR's. 
 
 ## New Umbraco packages
 
