@@ -46,3 +46,5 @@ Eligible are pledges of sponsorship to any Umbraco-related GitHub repositories o
 Please add a screenshot of your first donation to the description of the pull request. If this is a recurring sponsorship, please indicate how long you intend it to run for, otherwise indicate that it's a one-time donation.
 
 Contributions:
+- 2023-10-04 - [Erik-Jan Westendorp](https://github.com/erikjanwestendorp) - [Sponsor](https://github.com/sponsors/leekelleher?sponsor=erikjanwestendorp) [Lee Kelleher](https://github.com/leekelleher) - [Contentment](https://github.com/leekelleher/umbraco-contentment)
+
