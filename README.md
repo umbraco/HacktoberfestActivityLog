@@ -40,6 +40,7 @@ If you're interested in creating a new package and need some inspiration, have a
 Packages for Umbraco 14, also known as Bellissima, are eligible by default, even if the equivalent package already exists for Umbraco 12.
 
 Contributions:
+- 2023-10-05 - [Huw Reddick](https://github.com/huwredd) - [New Package](https://marketplace.umbraco.com/package/our.community.polls) - "Our.Community.Polls - Simple Poll Property Editor for Umbraco"
 
 ## Sponsor a GitHub repo
 
