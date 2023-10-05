@@ -31,7 +31,9 @@ Eligible contributions according to the [Hacktoberfest guidelines](https://hackt
 - Organizing Hacktoberfest events
 
 Contributions:
-- 03/10 - Roy Berris - Hacktoberfest event - iodigital.com - A (internal) hacktoberfest meetup with 12 colleagues attempting PR's. 
+
+- 2023-10-03 - Roy Berris - Hacktoberfest event - [iodigital.com](https://iodigital.com) - An internal hacktoberfest meetup with 12 colleagues attempting PRs
+- 2023-10-04 - [Karl Tynan](https://github.com/karltynan) - [Meetup Talk](https://www.meetup.com/umbristol/events/295949327/) - "CODECABIN23 - What was it like?"
 
 ## New Umbraco packages
 
@@ -47,3 +49,4 @@ Eligible are pledges of sponsorship to any Umbraco-related GitHub repositories o
 Please add a screenshot of your first donation to the description of the pull request. If this is a recurring sponsorship, please indicate how long you intend it to run for, otherwise indicate that it's a one-time donation.
 
 Contributions:
+- 2023-10-04 - [Erik-Jan Westendorp](https://github.com/erikjanwestendorp) - [Sponsor](https://github.com/sponsors/leekelleher?sponsor=erikjanwestendorp) [Lee Kelleher](https://github.com/leekelleher) - [Contentment](https://github.com/leekelleher/umbraco-contentment)
