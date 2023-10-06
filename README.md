@@ -51,3 +51,4 @@ Contributions:
 - 2023-10-04 - [Erik-Jan Westendorp](https://github.com/erikjanwestendorp) - [Sponsor](https://github.com/sponsors/leekelleher?sponsor=erikjanwestendorp) [Lee Kelleher](https://github.com/leekelleher) - [Contentment](https://github.com/leekelleher/umbraco-contentment)
 - 2023-10-05 - [Karl Tynan](https://github.com/karltynan) - [Sponsor](https://github.com/sponsors/leekelleher) [Lee Kelleher](https://github.com/leekelleher) - On-going sponsorship
 - 2023-10-05 - [Karl Tynan](https://github.com/karltynan) - [Sponsor](https://github.com/sponsors/skttl) [Søren Kottal](https://github.com/skttl) - On-going sponsorship
+- 2023-10-05 - [Blake Watt](https://github.com/bkclerke) - [Sponsor](https://github.com/sponsors/leekelleher) [Lee Kelleher](https://github.com/leekelleher) - Monthly sponsorship
