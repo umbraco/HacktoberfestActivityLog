@@ -31,7 +31,7 @@ Eligible contributions according to the [Hacktoberfest guidelines](https://hackt
 - Organizing Hacktoberfest events
 
 Contributions:
-
+- 2023-10-02 - [Corné Hoskam](https://github.com/cornehoskam) - [Blog posts](https://cornehoskam.com/posts/lets-talk-looking-back-at-df23) - "Let's Talk: Looking Back at DF23"
 - 2023-10-03 - Roy Berris - Hacktoberfest event - [iodigital.com](https://iodigital.com) - An internal hacktoberfest meetup with 12 colleagues attempting PRs
 - 2023-10-04 - [Karl Tynan](https://github.com/karltynan) - [Meetup Talk](https://www.meetup.com/umbristol/events/295949327/) - "CODECABIN23 - What was it like?"
 
@@ -42,6 +42,7 @@ If you're interested in creating a new package and need some inspiration, have a
 Packages for Umbraco 14, also known as Bellissima, are eligible by default, even if the equivalent package already exists for Umbraco 12.
 
 Contributions:
+- 2023-10-05 - [Huw Reddick](https://github.com/huwredd) - [New Package](https://marketplace.umbraco.com/package/our.community.polls) - "Our.Community.Polls - Simple Poll Property Editor for Umbraco"
 
 ## Sponsor a GitHub repo
 
@@ -50,3 +51,6 @@ Please add a screenshot of your first donation to the description of the pull re
 
 Contributions:
 - 2023-10-04 - [Erik-Jan Westendorp](https://github.com/erikjanwestendorp) - [Sponsor](https://github.com/sponsors/leekelleher?sponsor=erikjanwestendorp) [Lee Kelleher](https://github.com/leekelleher) - [Contentment](https://github.com/leekelleher/umbraco-contentment)
+- 2023-10-05 - [Karl Tynan](https://github.com/karltynan) - [Sponsor](https://github.com/sponsors/leekelleher) [Lee Kelleher](https://github.com/leekelleher) - On-going sponsorship
+- 2023-10-05 - [Karl Tynan](https://github.com/karltynan) - [Sponsor](https://github.com/sponsors/skttl) [Søren Kottal](https://github.com/skttl) - On-going sponsorship
+- 2023-10-05 - [Blake Watt](https://github.com/bkclerke) - [Sponsor](https://github.com/sponsors/leekelleher) [Lee Kelleher](https://github.com/leekelleher) - Monthly sponsorship
