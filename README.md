@@ -33,6 +33,7 @@ Eligible contributions according to the [Hacktoberfest guidelines](https://hackt
 Contributions:
 - 2023-10-02 - [Corné Hoskam](https://github.com/cornehoskam) - [Blog posts](https://cornehoskam.com/posts/lets-talk-looking-back-at-df23) - "Let's Talk: Looking Back at DF23"
 - 2023-10-04 - [Karl Tynan](https://github.com/karltynan) - [Meetup Talk](https://www.meetup.com/umbristol/events/295949327/) - "CODECABIN23 - What was it like?"
+- 2023-10-06 - [Bernadet Goey](https://github.com/BernadetGoey) - [Blog posts](https://tech.ilionx.com/learning-a-new-language-its-not-as-scary-as-you-think/) - "Learning a new language, it's not as scary as you think"
 
 ## New Umbraco packages
 
