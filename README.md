@@ -37,7 +37,7 @@ Contributions:
 - 2023-10-06 - [Bernadet Goey](https://github.com/BernadetGoey) - [Blog posts](https://tech.ilionx.com/learning-a-new-language-its-not-as-scary-as-you-think/) - "Learning a new language, it's not as scary as you think"
 - 2023-10-06 - [Poornima Nayar](https://github.com/poornimanayar) - Mentoring about Umbraco at Speed Mentoring event organised in Nottingham Trent University in conjunction with DDD East Midlands
 - 2023-10-07 - [Rachel Breeze](https://github.com/RachBreeze) - Speaker "Accessibility: Building and Deploying Accessible sites". Included a demo of the guard rails that can be added in Umbraco to support content authors in creating accessible content, at DDD East Midlands
-- 2023-10-07 - [Poornima Nayar](https://github.com/poornimanayar) - Spoke at DDD East Midlands, representing Umbracoo Community
+- 2023-10-07 - [Poornima Nayar](https://github.com/poornimanayar) - Spoke at DDD East Midlands, representing Umbraco Community
 
 ## New Umbraco packages
 
