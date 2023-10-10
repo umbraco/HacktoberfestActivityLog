@@ -40,6 +40,8 @@ Contributions:
 - 2023-10-07 - [Rachel Breeze](https://github.com/RachBreeze) - Speaker "Accessibility: Building and Deploying Accessible sites". Included a demo of the guard rails that can be added in Umbraco to support content authors in creating accessible content, at DDD East Midlands
 - 2023-10-07 - [Poornima Nayar](https://github.com/poornimanayar) - Spoke at DDD East Midlands, representing Umbraco Community
 
+- 2023-10-17 - [Busra Sengul](https://github.com/busrasengul) - Organizing [Turkiye Umbraco User Group Meetup](https://www.meetup.com/turkiye-umbraco-user-group-kullanicilari-grubu/events/295947641/) Hacktoberfest edition with a talk about Content Delivery API
+
 ## New Umbraco packages
 
 Eligible contributions are brand new packages (Umbraco plugins) that have not been released on the [Umbraco Marketplace](https://marketplace.umbraco.com/) before October 2023.  
