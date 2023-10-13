@@ -34,7 +34,7 @@ Contributions:
 - 2023-10-01 - [Rachel Breeze](https://github.com/RachBreeze) - [Blog posts](https://www.rachelbreeze.dev/blogs/2-weeks-in-umbraco-accessibility-and-ai/) - "2 Weeks In Umbraco: Accessibility And AI"
 - 2023-10-02 - [Corné Hoskam](https://github.com/cornehoskam) - [Blog posts](https://cornehoskam.com/posts/lets-talk-looking-back-at-df23) - "Let's Talk: Looking Back at DF23"
 - 2023-10-03 - [Michael Latouche](https://github.com/mikecp) - [Skrift article](https://skrift.io/issues/materializing-your-open-source-repository-issues-the-codegarden-hackathon-issue-receipt-printer/) - "Materializing your Open-Source Repository Issues: The Codegarden Hackathon Issue Receipt Printer"
-- 2023-10-03 - Roy Berris - Hacktoberfest event - [iodigital.com](https://iodigital.com) - An internal hacktoberfest meetup with 12 colleagues attempting PRs
+- 2023-10-03 - [Roy Berris](https://github.com/royberris) - Hacktoberfest event - [iodigital.com](https://iodigital.com) - Organizer of an (iO internal) hacktoberfest meetup where we are attemping PR's with 12 colleagues.
 - 2023-10-04 - [Karl Tynan](https://github.com/karltynan) - [Meetup Talk](https://www.meetup.com/umbristol/events/295949327/) - "CODECABIN23 - What was it like?"
 - 2023-10-06 - [Bernadet Goey](https://github.com/BernadetGoey) - [Blog posts](https://tech.ilionx.com/learning-a-new-language-its-not-as-scary-as-you-think/) - "Learning a new language, it's not as scary as you think"
 - 2023-10-06 - [Poornima Nayar](https://github.com/poornimanayar) - Mentoring about Umbraco at Speed Mentoring event organised in Nottingham Trent University in conjunction with DDD East Midlands
