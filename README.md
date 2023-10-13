@@ -31,6 +31,7 @@ Eligible contributions according to the [Hacktoberfest guidelines](https://hackt
 - Organizing Hacktoberfest events
 
 Contributions:
+- 2023-10-13 - [Aaron Sadler](https://github.com/AaronSadlerUK) - [Blog posts](https://umbhost.net/blog/2023/10/how-to-pass-a-content-security-nonce-csp-to-google-tag-manager) - "How to pass a Content Security Nonce (CSP) to Google Tag Manager"
 - 2023-10-01 - [Rachel Breeze](https://github.com/RachBreeze) - [Blog posts](https://www.rachelbreeze.dev/blogs/2-weeks-in-umbraco-accessibility-and-ai/) - "2 Weeks In Umbraco: Accessibility And AI"
 - 2023-10-02 - [Corné Hoskam](https://github.com/cornehoskam) - [Blog posts](https://cornehoskam.com/posts/lets-talk-looking-back-at-df23) - "Let's Talk: Looking Back at DF23"
 - 2023-10-03 - [Michael Latouche](https://github.com/mikecp) - [Skrift article](https://skrift.io/issues/materializing-your-open-source-repository-issues-the-codegarden-hackathon-issue-receipt-printer/) - "Materializing your Open-Source Repository Issues: The Codegarden Hackathon Issue Receipt Printer"
