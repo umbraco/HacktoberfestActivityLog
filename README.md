@@ -41,6 +41,7 @@ Contributions:
 - 2023-10-07 - [Rachel Breeze](https://github.com/RachBreeze) - Speaker "Accessibility: Building and Deploying Accessible sites". Included a demo of the guard rails that can be added in Umbraco to support content authors in creating accessible content, at DDD East Midlands
 - 2023-10-07 - [Poornima Nayar](https://github.com/poornimanayar) - Spoke at DDD East Midlands, representing Umbraco Community
 
+- 2023-10-13 - [Aaron Sadler](https://github.com/AaronSadlerUK) - [Blog posts](https://umbhost.net/blog/2023/10/how-to-pass-a-content-security-nonce-csp-to-google-tag-manager) - "How to pass a Content Security Nonce (CSP) to Google Tag Manager"
 - 2023-10-17 - [Busra Sengul](https://github.com/busrasengul) - Organizing [Turkiye Umbraco User Group Meetup](https://www.meetup.com/turkiye-umbraco-user-group-kullanicilari-grubu/events/295947641/) Hacktoberfest edition with a talk about Content Delivery API
 
 ## New Umbraco packages
