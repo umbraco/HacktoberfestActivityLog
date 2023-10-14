@@ -33,6 +33,7 @@ Eligible contributions according to the [Hacktoberfest guidelines](https://hackt
 Contributions:
 - 2023-10-01 - [Rachel Breeze](https://github.com/RachBreeze) - [Blog posts](https://www.rachelbreeze.dev/blogs/2-weeks-in-umbraco-accessibility-and-ai/) - "2 Weeks In Umbraco: Accessibility And AI"
 - 2023-10-02 - [Corné Hoskam](https://github.com/cornehoskam) - [Blog posts](https://cornehoskam.com/posts/lets-talk-looking-back-at-df23) - "Let's Talk: Looking Back at DF23"
+- 2023-10-02 - [Joe Glombek](https://github.com/glombek) - [Speaker](https://summit.umbraco.com/program/) - "How to Copy & Paste: Effectively working with strangers on the internet"
 - 2023-10-02 - [Lotte Pitcher](https://github.com/LottePitcher) - [Speaker](https://summit.umbraco.com/program/) - "Umbraco packages: it's a team sport!": a talk about the Umbraco packages ecosystem and how everyone can contribute in some way
 - 2023-10-03 - [Michael Latouche](https://github.com/mikecp) - [Skrift article](https://skrift.io/issues/materializing-your-open-source-repository-issues-the-codegarden-hackathon-issue-receipt-printer/) - "Materializing your Open-Source Repository Issues: The Codegarden Hackathon Issue Receipt Printer"
 - 2023-10-03 - [Roy Berris](https://github.com/royberris) - Hacktoberfest event - [iodigital.com](https://iodigital.com) - Organizer of an (iO internal) hacktoberfest meetup where we are attemping PR's with 12 colleagues.
@@ -41,7 +42,6 @@ Contributions:
 - 2023-10-06 - [Poornima Nayar](https://github.com/poornimanayar) - Mentoring about Umbraco at Speed Mentoring event organised in Nottingham Trent University in conjunction with DDD East Midlands
 - 2023-10-07 - [Rachel Breeze](https://github.com/RachBreeze) - Speaker "Accessibility: Building and Deploying Accessible sites". Included a demo of the guard rails that can be added in Umbraco to support content authors in creating accessible content, at DDD East Midlands
 - 2023-10-07 - [Poornima Nayar](https://github.com/poornimanayar) - Spoke at DDD East Midlands, representing Umbraco Community
-
 - 2023-10-13 - [Aaron Sadler](https://github.com/AaronSadlerUK) - [Blog posts](https://umbhost.net/blog/2023/10/how-to-pass-a-content-security-nonce-csp-to-google-tag-manager) - "How to pass a Content Security Nonce (CSP) to Google Tag Manager"
 - 2023-10-17 - [Busra Sengul](https://github.com/busrasengul) - Organizing [Turkiye Umbraco User Group Meetup](https://www.meetup.com/turkiye-umbraco-user-group-kullanicilari-grubu/events/295947641/) Hacktoberfest edition with a talk about Content Delivery API
 
