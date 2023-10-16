@@ -38,6 +38,7 @@ Contributions:
 - 2023-10-02 - [Blake Watt](https://github.com/bkclerke) - [Speaker](https://summit.umbraco.com/program/) - Panel Discussion
 - 2023-10-03 - [Michael Latouche](https://github.com/mikecp) - [Skrift article](https://skrift.io/issues/materializing-your-open-source-repository-issues-the-codegarden-hackathon-issue-receipt-printer/) - "Materializing your Open-Source Repository Issues: The Codegarden Hackathon Issue Receipt Printer"
 - 2023-10-03 - [Roy Berris](https://github.com/royberris) - Hacktoberfest event - [iodigital.com](https://iodigital.com) - Organizer of an (iO internal) hacktoberfest meetup where we are attemping PR's with 12 colleagues.
+- 2023-10-03 - [Andrew McKaskill](https://github.com/andrewmckaskill) - [Skrift Article](https://skrift.io/issues/using-forked-libraries-in-net-part-2-setting-up-a-local-nuget-repository/) - "Using Forked Libraries in .NET - Part 2 - Setting Up a Local NuGet Repository"
 - 2023-10-04 - [Karl Tynan](https://github.com/karltynan) - [Meetup Talk](https://www.meetup.com/umbristol/events/295949327/) - "CODECABIN23 - What was it like?"
 - 2023-10-06 - [Bernadet Goey](https://github.com/BernadetGoey) - [Blog posts](https://tech.ilionx.com/learning-a-new-language-its-not-as-scary-as-you-think/) - "Learning a new language, it's not as scary as you think"
 - 2023-10-06 - [Poornima Nayar](https://github.com/poornimanayar) - Mentoring about Umbraco at Speed Mentoring event organised in Nottingham Trent University in conjunction with DDD East Midlands
