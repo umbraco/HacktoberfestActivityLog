@@ -48,6 +48,7 @@ Contributions:
 - 2023-10-14 - [Lotte Pitcher](https://github.com/LottePitcher) - [Hacktoberfest event](https://www.meetup.com/umbraco-virtual/events/296099686/) - Organiser of all day virtual Umbraco hacktoberfest hackathon
 - 2023-10-14 - [Carole Logan](https://github.com/crgrieve) - Blog post [Using Umbraco Forms Headless API](https://carole.dev/blog/using-umbraco-forms-headless-api/)
 - 2023-10-17 - [Busra Sengul](https://github.com/busrasengul) - Organizing [Turkiye Umbraco User Group Meetup](https://www.meetup.com/turkiye-umbraco-user-group-kullanicilari-grubu/events/295947641/) Hacktoberfest edition with a talk about Content Delivery API
+- 2023-10-17 - [Nurhak Kaya](https://github.com/NurhakKaya/) - [Speaker](https://www.meetup.com/turkiye-umbraco-user-group-kullanicilari-grubu/events/295947641/) - "Hacktoberfest: A contribution guide to Umbraco and other open-source projects"
 
 ## New Umbraco packages
 
