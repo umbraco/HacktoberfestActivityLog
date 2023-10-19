@@ -50,6 +50,8 @@ Contributions:
 - 2023-10-14 - [Carole Logan](https://github.com/crgrieve) - Blog post [Using Umbraco Forms Headless API](https://carole.dev/blog/using-umbraco-forms-headless-api/)
 - 2023-10-17 - [Busra Sengul](https://github.com/busrasengul) - Organizing [Turkiye Umbraco User Group Meetup](https://www.meetup.com/turkiye-umbraco-user-group-kullanicilari-grubu/events/295947641/) Hacktoberfest edition with a talk about Content Delivery API
 - 2023-10-17 - [Nurhak Kaya](https://github.com/NurhakKaya) - Speaking at [Turkiye Umbraco User Group Meetup](https://www.meetup.com/turkiye-umbraco-user-group-kullanicilari-grubu/events/295947641/) Hacktoberfest edition about Hacktoberfest: A contribution guide to Umbraco and other open-source projects
+- 2023-10-18 - [Nurhak Kaya](https://github.com/NurhakKaya) - [Blog post](https://www.nurhakkaya.com/2023/10/how-to-fix-umbraco-cms-build-error.html) - "How to fix Umbraco CMS Build Error NU1104: Unable to find project '..\Umbraco-CMS\tools\Umbraco.Core\Umbraco.Core.csproj'."
+- 2023-10-18 - [Nurhak Kaya](https://github.com/NurhakKaya) - [Blog post](https://www.nurhakkaya.com/2023/10/umbraco-cms-kaynak-koduna-katk-icin.html) - "Turkish blog post about Steps to contribute to Umbraco CMS source code"
 
 ## New Umbraco packages
 
