@@ -47,10 +47,15 @@ Contributions:
 - 2023-10-07 - [Rachel Breeze](https://github.com/RachBreeze) - Speaker "Accessibility: Building and Deploying Accessible sites". Included a demo of the guard rails that can be added in Umbraco to support content authors in creating accessible content, at DDD East Midlands
 - 2023-10-07 - [Poornima Nayar](https://github.com/poornimanayar) - Spoke at DDD East Midlands, representing Umbraco Community
 - 2023-10-13 - [Aaron Sadler](https://github.com/AaronSadlerUK) - [Blog posts](https://umbhost.net/blog/2023/10/how-to-pass-a-content-security-nonce-csp-to-google-tag-manager) - "How to pass a Content Security Nonce (CSP) to Google Tag Manager"
+- 2023-10-13 - [Nurhak Kaya](https://github.com/NurhakKaya) - [Blog post](https://www.nurhakkaya.com/2023/10/umbraco-lifehack-how-to-setup.html) - "Umbraco lifehack: How to setup anchor/jump links in Umbraco without making code changes"
 - 2023-10-14 - [Lotte Pitcher](https://github.com/LottePitcher) - [Hacktoberfest event](https://www.meetup.com/umbraco-virtual/events/296099686/) - Organiser of all day virtual Umbraco hacktoberfest hackathon
 - 2023-10-14 - [Carole Logan](https://github.com/crgrieve) - Blog post [Using Umbraco Forms Headless API](https://carole.dev/blog/using-umbraco-forms-headless-api/)
 - 2023-10-17 - [Busra Sengul](https://github.com/busrasengul) - Organizing [Turkiye Umbraco User Group Meetup](https://www.meetup.com/turkiye-umbraco-user-group-kullanicilari-grubu/events/295947641/) Hacktoberfest edition with a talk about Content Delivery API
 - 2023-10-17 - [Nurhak Kaya](https://github.com/NurhakKaya) - Speaking at [Turkiye Umbraco User Group Meetup](https://www.meetup.com/turkiye-umbraco-user-group-kullanicilari-grubu/events/295947641/) Hacktoberfest edition about Hacktoberfest: A contribution guide to Umbraco and other open-source projects
+- 2023-10-18 - [Nurhak Kaya](https://github.com/NurhakKaya) - [Blog post](https://www.nurhakkaya.com/2023/10/how-to-fix-umbraco-cms-build-error.html) - "How to fix Umbraco CMS Build Error NU1104: Unable to find project '..\Umbraco-CMS\tools\Umbraco.Core\Umbraco.Core.csproj'."
+- 2023-10-18 - [Nurhak Kaya](https://github.com/NurhakKaya) - [Blog post](https://www.nurhakkaya.com/2023/10/umbraco-cms-kaynak-koduna-katk-icin.html) - "Turkish blog post about Steps to contribute to Umbraco CMS source code"
+- 2023-10-19 - [Owain Williams](https://github.com/OwainWilliams) - Speaker "Why you should give Umbraco CMS a try" at .Net Glasgow meetup
+- 2023-10-20 - [Nurhak Kaya](https://github.com/NurhakKaya) - [Blog post](https://umbraco.com/blog/) - "Unlocking Efficiency and Flexibility with Umbraco Cloud" - To be published by Eleftheria Tsatsi at Umbraco HQ in November 2023 on Umbraco's website
 
 ## New Umbraco packages
 
@@ -61,6 +66,7 @@ Packages for Umbraco 14, also known as Bellissima, are eligible by default, even
 Contributions:
 - 2023-10-05 - [Huw Reddick](https://github.com/huwred) - [New Package](https://marketplace.umbraco.com/package/our.community.polls) - "Our.Community.Polls - Simple Poll Property Editor for Umbraco"
 - 2023-10-16 - [Huw Reddick](https://github.com/huwred) - [New Package](https://marketplace.umbraco.com/package/our.community.rssview) - "Our.Community.RssView - Simple RSS feed viewer Property Editor for Umbraco"
+- 2023-10-20 - [Huw Reddick](https://github.com/huwred) - [New Package](https://marketplace.umbraco.com/package/our.community.configuration) - "Our.Community.Configuration - Store custom config data in the umbraco database"
 
 ## Sponsor a GitHub repo
 
