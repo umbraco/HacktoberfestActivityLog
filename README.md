@@ -67,6 +67,7 @@ Packages for Umbraco 14, also known as Bellissima, are eligible by default, even
 Contributions:
 - 2023-10-05 - [Huw Reddick](https://github.com/huwred) - [New Package](https://marketplace.umbraco.com/package/our.community.polls) - "Our.Community.Polls - Simple Poll Property Editor for Umbraco"
 - 2023-10-16 - [Huw Reddick](https://github.com/huwred) - [New Package](https://marketplace.umbraco.com/package/our.community.rssview) - "Our.Community.RssView - Simple RSS feed viewer Property Editor for Umbraco"
+- 2023-10-19 - [Luke Fisher](https://github.com/ljfio) - [New Package](https://marketplace.umbraco.com/package/our.umbraco.invisiblenodes) - "Our.Umbraco.InvisibleNodes - Make nodes 'invisible' in Umbraco 10+"
 - 2023-10-20 - [Huw Reddick](https://github.com/huwred) - [New Package](https://marketplace.umbraco.com/package/our.community.configuration) - "Our.Community.Configuration - Store custom config data in the umbraco database"
 
 ## Sponsor a GitHub repo
