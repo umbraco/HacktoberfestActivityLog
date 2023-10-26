@@ -56,6 +56,8 @@ Contributions:
 - 2023-10-18 - [Nurhak Kaya](https://github.com/NurhakKaya) - [Blog post](https://www.nurhakkaya.com/2023/10/umbraco-cms-kaynak-koduna-katk-icin.html) - "Turkish blog post about Steps to contribute to Umbraco CMS source code"
 - 2023-10-19 - [Owain Williams](https://github.com/OwainWilliams) - Speaker "Why you should give Umbraco CMS a try" at .Net Glasgow meetup
 - 2023-10-20 - [Nurhak Kaya](https://github.com/NurhakKaya) - [Blog post](https://umbraco.com/blog/) - "Unlocking Efficiency and Flexibility with Umbraco Cloud" - To be published by Eleftheria Tsatsi at Umbraco HQ in November 2023 on Umbraco's website
+- 2023-10-26 - [Corné Hoskam](https://github.com/cornehoskam) - [Blog posts](https://cornehoskam.com/posts/how-to-include-appsettings-schema-json-files-in-umbraco-packages) - "How to Include appsettings-schema.json Files in Umbraco Packages"
+
 
 ## New Umbraco packages
 
