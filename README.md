@@ -41,6 +41,7 @@ Contributions:
 - 2023-10-03 - [Andrew McKaskill](https://github.com/andrewmckaskill) - [Skrift Article](https://skrift.io/issues/using-forked-libraries-in-net-part-2-setting-up-a-local-nuget-repository/) - "Using Forked Libraries in .NET - Part 2 - Setting Up a Local NuGet Repository"
 - 2023-10-04 - [Karl Tynan](https://github.com/karltynan) - [Meetup Talk](https://www.meetup.com/umbristol/events/295949327/) - "CODECABIN23 - What was it like?"
 - 2023-10-04 - [Nurhak Kaya](https://github.com/NurhakKaya) - [Hosting and Organizing Umbraco Meetup](https://www.meetup.com/umbristol/events/295949327/) - "umBristol Talks - October 2023"
+- 2023-10-05 -  [Rachel Breeze](https://github.com/RachBreeze) - [Hosting and Organizing Umbraco Meetup](https://www.meetup.com/manchester-umbraco-meetup/events/296214145/) - "Special Event - Umbraco Commerce with Matt Brailsford & Ollie Picton"
 - 2023-10-06 - [Bernadet Goey](https://github.com/BernadetGoey) - [Blog posts](https://tech.ilionx.com/learning-a-new-language-its-not-as-scary-as-you-think/) - "Learning a new language, it's not as scary as you think"
 - 2023-10-06 - [Poornima Nayar](https://github.com/poornimanayar) - Mentoring about Umbraco at Speed Mentoring event organised in Nottingham Trent University in conjunction with DDD East Midlands
 - 2023-10-07 - [Rachel Breeze](https://github.com/RachBreeze) - Speaker "Accessibility: Building and Deploying Accessible sites". Included a demo of the guard rails that can be added in Umbraco to support content authors in creating accessible content, at DDD East Midlands
@@ -65,6 +66,7 @@ Packages for Umbraco 14, also known as Bellissima, are eligible by default, even
 Contributions:
 - 2023-10-05 - [Huw Reddick](https://github.com/huwred) - [New Package](https://marketplace.umbraco.com/package/our.community.polls) - "Our.Community.Polls - Simple Poll Property Editor for Umbraco"
 - 2023-10-16 - [Huw Reddick](https://github.com/huwred) - [New Package](https://marketplace.umbraco.com/package/our.community.rssview) - "Our.Community.RssView - Simple RSS feed viewer Property Editor for Umbraco"
+- 2023-10-20 - [Huw Reddick](https://github.com/huwred) - [New Package](https://marketplace.umbraco.com/package/our.community.configuration) - "Our.Community.Configuration - Store custom config data in the umbraco database"
 
 ## Sponsor a GitHub repo
 
