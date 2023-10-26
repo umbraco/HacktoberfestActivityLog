@@ -57,6 +57,7 @@ Contributions:
 - 2023-10-19 - [Owain Williams](https://github.com/OwainWilliams) - Speaker "Why you should give Umbraco CMS a try" at .Net Glasgow meetup
 - 2023-10-20 - [Nurhak Kaya](https://github.com/NurhakKaya) - [Blog post](https://umbraco.com/blog/) - "Unlocking Efficiency and Flexibility with Umbraco Cloud" - To be published by Eleftheria Tsatsi at Umbraco HQ in November 2023 on Umbraco's website
 - 2023-10-20 - [Jeroen Breuer](https://github.com/jbreuer) -  [Upgraded Umbraco OpenID Connect example package to Umbraco 12.2.0.](https://github.com/jbreuer/Umbraco-OpenIdConnect-Example/commit/0887d65058694fa4d48c99d3d58b8477175b918b) - Tested if OpenID Connect works on V12.2
+- 2023-10-26 - [Corné Hoskam](https://github.com/cornehoskam) - [Blog posts](https://cornehoskam.com/posts/how-to-include-appsettings-schema-json-files-in-umbraco-packages) - "How to Include appsettings-schema.json Files in Umbraco Packages"
 
 ## New Umbraco packages
 
