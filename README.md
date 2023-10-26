@@ -56,8 +56,8 @@ Contributions:
 - 2023-10-18 - [Nurhak Kaya](https://github.com/NurhakKaya) - [Blog post](https://www.nurhakkaya.com/2023/10/umbraco-cms-kaynak-koduna-katk-icin.html) - "Turkish blog post about Steps to contribute to Umbraco CMS source code"
 - 2023-10-19 - [Owain Williams](https://github.com/OwainWilliams) - Speaker "Why you should give Umbraco CMS a try" at .Net Glasgow meetup
 - 2023-10-20 - [Nurhak Kaya](https://github.com/NurhakKaya) - [Blog post](https://umbraco.com/blog/) - "Unlocking Efficiency and Flexibility with Umbraco Cloud" - To be published by Eleftheria Tsatsi at Umbraco HQ in November 2023 on Umbraco's website
+- 2023-10-20 - [Jeroen Breuer](https://github.com/jbreuer) -  [Upgraded Umbraco OpenID Connect example package to Umbraco 12.2.0.](https://github.com/jbreuer/Umbraco-OpenIdConnect-Example/commit/0887d65058694fa4d48c99d3d58b8477175b918b) - Tested if OpenID Connect works on V12.2
 - 2023-10-26 - [Corné Hoskam](https://github.com/cornehoskam) - [Blog posts](https://cornehoskam.com/posts/how-to-include-appsettings-schema-json-files-in-umbraco-packages) - "How to Include appsettings-schema.json Files in Umbraco Packages"
-
 
 ## New Umbraco packages
 
@@ -68,6 +68,7 @@ Packages for Umbraco 14, also known as Bellissima, are eligible by default, even
 Contributions:
 - 2023-10-05 - [Huw Reddick](https://github.com/huwred) - [New Package](https://marketplace.umbraco.com/package/our.community.polls) - "Our.Community.Polls - Simple Poll Property Editor for Umbraco"
 - 2023-10-16 - [Huw Reddick](https://github.com/huwred) - [New Package](https://marketplace.umbraco.com/package/our.community.rssview) - "Our.Community.RssView - Simple RSS feed viewer Property Editor for Umbraco"
+- 2023-10-19 - [Luke Fisher](https://github.com/ljfio) - [New Package](https://marketplace.umbraco.com/package/our.umbraco.invisiblenodes) - "Our.Umbraco.InvisibleNodes - Make nodes 'invisible' in Umbraco 10+"
 - 2023-10-20 - [Huw Reddick](https://github.com/huwred) - [New Package](https://marketplace.umbraco.com/package/our.community.configuration) - "Our.Community.Configuration - Store custom config data in the umbraco database"
 
 ## Sponsor a GitHub repo
