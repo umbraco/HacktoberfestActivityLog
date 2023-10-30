@@ -29,10 +29,10 @@ Eligible contributions according to the [Hacktoberfest guidelines](https://hackt
 
 Contributions:
 
-- 2023-10-30 - Alex Lovell - Accessibility testing of v10 CMS and raising issue - https://github.com/umbraco/Umbraco-CMS/issues/15067
-- 2023-10-30 - Alex Lovell - Accessibility testing of v10 CMS and raising issue - https://github.com/umbraco/Umbraco-CMS/issues/15068
-- 2023-10-30 - Alex Lovell - Accessibility testing of v10 CMS and raising issue - https://github.com/umbraco/Umbraco-CMS/issues/15069
-- 2023-10-30 - Alex Lovell - Accessibility testing of v10 CMS and raising issue - https://github.com/umbraco/Umbraco-CMS/issues/15070
+- 2023-10-30 - Alex Lovell - Accessibility testing of v10 CMS and raising issue - https://github.com/umbraco/Umbraco-CMS/issues/15067 - Contrast issue upon successful login landing page
+- 2023-10-30 - Alex Lovell - Accessibility testing of v10 CMS and raising issue - https://github.com/umbraco/Umbraco-CMS/issues/15068 - Media library is missing alt text attribute
+- 2023-10-30 - Alex Lovell - Accessibility testing of v10 CMS and raising issue - https://github.com/umbraco/Umbraco-CMS/issues/15069 - Umbraco logo is missing alt attribute
+- 2023-10-30 - Alex Lovell - Accessibility testing of v10 CMS and raising issue - https://github.com/umbraco/Umbraco-CMS/issues/15070 - contrast issue on login CTA
 - 2022-10-21 - Jeroen Breuer - Testing Umbraco 11 Release Candidate - [Umbraco OpenID Connect example package on V11 RC](https://github.com/jbreuer/Umbraco-OpenIdConnect-Example/commit/c3b316e90a29551684a6c66ee1361b4710756ea4) - Tested if OpenID Connect works on V11. It had some bugs and breaking changes going from V9 to V10. On V11 everything works!
 - 2022-10-21 - Lotte Pitcher - Hacktoberfest event - [Virtual Umbraco Hacktoberfest Hackathon](https://www.meetup.com/umbracodkmeetup/events/288768494/) - Part of the team organising and promoting the hackathon
 - 2022-10-21 - Emma Burstow - Hacktoberfest event - [Virtual Umbraco & Candid Contribs Hacktoberfest Hackathon](https://www.meetup.com/umbracodkmeetup/events/288768494/) - Part of the team organising and promoting the hackathon
