@@ -72,6 +72,10 @@ Contributions:
 - 2023-10-16 - [Huw Reddick](https://github.com/huwred) - [New Package](https://marketplace.umbraco.com/package/our.community.rssview) - "Our.Community.RssView - Simple RSS feed viewer Property Editor for Umbraco"
 - 2023-10-19 - [Luke Fisher](https://github.com/ljfio) - [New Package](https://marketplace.umbraco.com/package/our.umbraco.invisiblenodes) - "Our.Umbraco.InvisibleNodes - Make nodes 'invisible' in Umbraco 10+"
 - 2023-10-20 - [Huw Reddick](https://github.com/huwred) - [New Package](https://marketplace.umbraco.com/package/our.community.configuration) - "Our.Community.Configuration - Store custom config data in the umbraco database"
+
+- 2023-10-26 - [Rick Mason](https://github.com/sussexrick) - [New Package](https://marketplace.umbraco.com/package/ThePensionsRegulator.GovUk.Frontend.Umbraco) - "ThePensionsRegulator.GovUk.Frontend.Umbraco - Use the GOV.UK design system in Umbraco"
+- 2023-10-26 - [Rick Mason](https://github.com/sussexrick) - [New Package](https://marketplace.umbraco.com/package/ThePensionsRegulator.Umbraco.Testing) - "ThePensionsRegulator.Umbraco.Testing - Umbraco unit testing helper library"
+
 - 2023-10-26 - [Matthew Wise](https://github.com/Matthew-Wise) - [New Package](https://marketplace.umbraco.com/package/umbraco.community.cspmanager) - "Umbraco.Community.CspManager - CMS managed Content Security Policy"
 
 ## Sponsor a GitHub repo
