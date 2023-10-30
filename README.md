@@ -61,9 +61,9 @@ Contributions:
 - 2023-10-20 - [Jeroen Breuer](https://github.com/jbreuer) -  [Upgraded Umbraco OpenID Connect example package to Umbraco 12.2.0.](https://github.com/jbreuer/Umbraco-OpenIdConnect-Example/commit/0887d65058694fa4d48c99d3d58b8477175b918b) - Tested if OpenID Connect works on V12.2
 - 2023-10-24 - [Owain Williams](https://github.com/OwainWilliams) & [Tom Madden](https://github.com/TwoMoreThings) - Host the Edinburgh Umbraco Users Group meetup which was a [Hacktoberfest special](https://www.meetup.com/edinburgh-umbraco-users-group/events/296507496/).
 - 2023-10-26 - [Corné Hoskam](https://github.com/cornehoskam) - [Blog posts](https://cornehoskam.com/posts/how-to-include-appsettings-schema-json-files-in-umbraco-packages) - "How to Include appsettings-schema.json Files in Umbraco Packages"
+- 2023-10-29 - [Richard Jackson](https://github.com/jacksorjacksor) - [YouTube Tutorial](https://youtu.be/RNesCW0AncM) - Returning a View with a custom Model - Umbraco CMS 10
 - 2023-10-26 - [Paul Seal](https://github.com/prjseal) - [Blog posts](https://codeshare.co.uk/blog/how-to-create-a-github-repository-picker-using-octokit-and-contentment/) - "How to create a GitHub Repository Picker using Octokit and Contentment"
 - 2023-10-26 - [Richard Jackson](https://github.com/jacksorjacksor) - Speaker at [UmbraCymru](https://www.meetup.com/umbracymru/events/296277693/) - Gave a talk called "Umbracademia" discussing my own MSc. Computing dissertation project
-
 ## New Umbraco packages
 
 Eligible contributions are brand new packages (Umbraco plugins) that have not been released on the [Umbraco Marketplace](https://marketplace.umbraco.com/) before October 2023.  
