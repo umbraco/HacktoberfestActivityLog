@@ -36,6 +36,7 @@ Contributions:
 - 2023-10-02 - [Joe Glombek](https://github.com/glombek) - [Speaker](https://summit.umbraco.com/program/) - "How to Copy & Paste: Effectively working with strangers on the internet"
 - 2023-10-02 - [Lotte Pitcher](https://github.com/LottePitcher) - [Speaker](https://summit.umbraco.com/program/) - "Umbraco packages: it's a team sport!": a talk about the Umbraco packages ecosystem and how everyone can contribute in some way
 - 2023-10-02 - [Blake Watt](https://github.com/bkclerke) - [Speaker](https://summit.umbraco.com/program/) - Panel Discussion
+- 2023-10-02 - [Paul Seal](https://github.com/prjseal) - [Blog posts](https://codeshare.co.uk/blog/how-to-implement-custom-error-pages-in-umbraco-10-and-higher/) - "How to implement custom error pages in Umbraco 10 and higher"
 - 2023-10-03 - [Michael Latouche](https://github.com/mikecp) - [Skrift article](https://skrift.io/issues/materializing-your-open-source-repository-issues-the-codegarden-hackathon-issue-receipt-printer/) - "Materializing your Open-Source Repository Issues: The Codegarden Hackathon Issue Receipt Printer"
 - 2023-10-03 - [Roy Berris](https://github.com/royberris) - Hacktoberfest event - [iodigital.com](https://iodigital.com) - Organizer of an (iO internal) hacktoberfest meetup where we are attemping PR's with 12 colleagues.
 - 2023-10-03 - [Andrew McKaskill](https://github.com/andrewmckaskill) - [Skrift Article](https://skrift.io/issues/using-forked-libraries-in-net-part-2-setting-up-a-local-nuget-repository/) - "Using Forked Libraries in .NET - Part 2 - Setting Up a Local NuGet Repository"
@@ -52,6 +53,7 @@ Contributions:
 - 2023-10-14 - [Carole Logan](https://github.com/crgrieve) - Blog post [Using Umbraco Forms Headless API](https://carole.dev/blog/using-umbraco-forms-headless-api/)
 - 2023-10-17 - [Busra Sengul](https://github.com/busrasengul) - Organizing [Turkiye Umbraco User Group Meetup](https://www.meetup.com/turkiye-umbraco-user-group-kullanicilari-grubu/events/295947641/) Hacktoberfest edition with a talk about Content Delivery API
 - 2023-10-17 - [Nurhak Kaya](https://github.com/NurhakKaya) - Speaking at [Turkiye Umbraco User Group Meetup](https://www.meetup.com/turkiye-umbraco-user-group-kullanicilari-grubu/events/295947641/) Hacktoberfest edition about Hacktoberfest: A contribution guide to Umbraco and other open-source projects
+- 2023-10-17 - [Paul Seal](https://github.com/prjseal) - [Blog posts](https://codeshare.co.uk/blog/how-to-change-the-currency-in-umbraco-commerce-vendr/) - "How to change the currency in Umbraco Commerce (Vendr)" 
 - 2023-10-18 - [Nurhak Kaya](https://github.com/NurhakKaya) - [Blog post](https://www.nurhakkaya.com/2023/10/how-to-fix-umbraco-cms-build-error.html) - "How to fix Umbraco CMS Build Error NU1104: Unable to find project '..\Umbraco-CMS\tools\Umbraco.Core\Umbraco.Core.csproj'."
 - 2023-10-18 - [Nurhak Kaya](https://github.com/NurhakKaya) - [Blog post](https://www.nurhakkaya.com/2023/10/umbraco-cms-kaynak-koduna-katk-icin.html) - "Turkish blog post about Steps to contribute to Umbraco CMS source code"
 - 2023-10-19 - [Owain Williams](https://github.com/OwainWilliams) - Speaker "Why you should give Umbraco CMS a try" at .Net Glasgow meetup
@@ -59,6 +61,7 @@ Contributions:
 - 2023-10-20 - [Jeroen Breuer](https://github.com/jbreuer) -  [Upgraded Umbraco OpenID Connect example package to Umbraco 12.2.0.](https://github.com/jbreuer/Umbraco-OpenIdConnect-Example/commit/0887d65058694fa4d48c99d3d58b8477175b918b) - Tested if OpenID Connect works on V12.2
 - 2023-10-24 - [Owain Williams](https://github.com/OwainWilliams) & [Tom Madden](https://github.com/TwoMoreThings) - Host the Edinburgh Umbraco Users Group meetup which was a [Hacktoberfest special](https://www.meetup.com/edinburgh-umbraco-users-group/events/296507496/).
 - 2023-10-26 - [Corné Hoskam](https://github.com/cornehoskam) - [Blog posts](https://cornehoskam.com/posts/how-to-include-appsettings-schema-json-files-in-umbraco-packages) - "How to Include appsettings-schema.json Files in Umbraco Packages"
+- 2023-10-26 - [Paul Seal](https://github.com/prjseal) - [Blog posts](https://codeshare.co.uk/blog/how-to-create-a-github-repository-picker-using-octokit-and-contentment/) - "How to create a GitHub Repository Picker using Octokit and Contentment"
 - 2023-10-26 - [Richard Jackson](https://github.com/jacksorjacksor) - Speaker at [UmbraCymru](https://www.meetup.com/umbracymru/events/296277693/) - Gave a talk called "Umbracademia" discussing my own MSc. Computing dissertation project
 
 ## New Umbraco packages
