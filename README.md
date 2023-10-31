@@ -31,24 +31,6 @@ Eligible contributions according to the [Hacktoberfest guidelines](https://hackt
 - Organizing Hacktoberfest events
 
 Contributions:
-
-- 2023-10-30 - [Alex Lovell](https://github.com/Truealex4) - Accessibility testing of v10 CMS and raising issues - [Issues](https://github.com/umbraco/Umbraco-CMS/issues?q=is%3Aissue+author%3ATruealex4+created%3A2023-10-01..2023-10-31+accessibility)
-- 2022-10-21 - Jeroen Breuer - Testing Umbraco 11 Release Candidate - [Umbraco OpenID Connect example package on V11 RC](https://github.com/jbreuer/Umbraco-OpenIdConnect-Example/commit/c3b316e90a29551684a6c66ee1361b4710756ea4) - Tested if OpenID Connect works on V11. It had some bugs and breaking changes going from V9 to V10. On V11 everything works!
-- 2022-10-21 - Lotte Pitcher - Hacktoberfest event - [Virtual Umbraco Hacktoberfest Hackathon](https://www.meetup.com/umbracodkmeetup/events/288768494/) - Part of the team organising and promoting the hackathon
-- 2022-10-21 - Emma Burstow - Hacktoberfest event - [Virtual Umbraco & Candid Contribs Hacktoberfest Hackathon](https://www.meetup.com/umbracodkmeetup/events/288768494/) - Part of the team organising and promoting the hackathon
-- 2022-10-19 - Owain Williams & Tom Madden - Hacktoberfest event - [Edinburgh Meetup](https://www.meetup.com/edinburgh-umbraco-users-group/events/287875883/) will be hosting a hacktoberfest event focussing on Umbraco CMS & Umbraco Projects
-- 2022-10-07 - Jeroen Breuer - Presentation - [Umbraco with external login providers](https://df22.sessionize.com/session/375069) - Presentation at DUUG ([Slides](https://www.jeroenbreuer.nl/blog/df22-presentation-about-umbraco-with-external-login-providers/))
-- 2022-10-07 - Corné Hoskam - Talk - [Empowering Communities with Discord & Umbraco](https://df22.sessionize.com/session/367458) - Utilizing the Discord API to create various powerful Umbraco integrations
-- 2022-10-07 - Julia Gruszczynska - Presentation - [Web components in Umbraco - crash course](https://youtu.be/R1eF2vtlT68?t=26766) - Gave presentation on DUUG 
-- 2022-10-07 - Erik-Jan Westendorp - Presentation - [CI/CD Umbraco Kubernetes](https://df22.sessionize.com/session/374849) - Presentation at DUUG
-- 2022-10-07 - Callum Whyte - Presentation - [Umbraco Anywhere](https://df22.sessionize.com/session/384759) - Presentation at DUUG
-- 2022-10-04 - Lee Kelleher - [Umbraco Package Ideas](https://github.com/leekelleher/umbraco-package-ideas) - Refreshed ideas repository for Hacktoberfest 2022
-- 2022-10-07 - Poornima Nayar - [Welcome to the world of Minimal APIs](https://df22.sessionize.com/session/376429) - DF22 Speaker
-- 2022-10-07 - Paul Seal - Presentation - [Gamifying Learning](https://df22.sessionize.com/session/363665) - DF22 Speaker
-- 2022-10-12 - Paul Seal - Talk - [Umbraco Melbourne Meetup](https://www.meetup.com/australian-umbraco-meetups/events/283544093/)
-- 2022-10-21 - Carole Logan - Hacktoberfest event - Virtual Umbraco Hacktoberfest Hackathon - Part of the team organising and promoting the hackathon
-- 2022-10-07 - Rachel Breeze - Presentation [The forgotten users of the CMS](https://df22.sessionize.com/speaker/4009021f-f36e-4b07-b2c0-633805cd9659) - DF22 speaker 
-- 2022-10-22 - Rachel Breeze - PR for [Accessibility on Umbraco packages](https://github.com/umbraco/Umbraco.Packages/pull/154)
 - 2023-10-01 - [Rachel Breeze](https://github.com/RachBreeze) - [Blog posts](https://www.rachelbreeze.dev/blogs/2-weeks-in-umbraco-accessibility-and-ai/) - "2 Weeks In Umbraco: Accessibility And AI"
 - 2023-10-02 - [Corné Hoskam](https://github.com/cornehoskam) - [Blog posts](https://cornehoskam.com/posts/lets-talk-looking-back-at-df23) - "Let's Talk: Looking Back at DF23"
 - 2023-10-02 - [Joe Glombek](https://github.com/glombek) - [Speaker](https://summit.umbraco.com/program/) - "How to Copy & Paste: Effectively working with strangers on the internet"
@@ -82,7 +64,6 @@ Contributions:
 - 2023-10-29 - [Richard Jackson](https://github.com/jacksorjacksor) - [YouTube Tutorial](https://youtu.be/RNesCW0AncM) - Returning a View with a custom Model - Umbraco CMS 10
 - 2023-10-26 - [Paul Seal](https://github.com/prjseal) - [Blog posts](https://codeshare.co.uk/blog/how-to-create-a-github-repository-picker-using-octokit-and-contentment/) - "How to create a GitHub Repository Picker using Octokit and Contentment"
 - 2023-10-26 - [Richard Jackson](https://github.com/jacksorjacksor) - Speaker at [UmbraCymru](https://www.meetup.com/umbracymru/events/296277693/) - Gave a talk called "Umbracademia" discussing my own MSc. Computing dissertation project
-
 ## New Umbraco packages
 
 Eligible contributions are brand new packages (Umbraco plugins) that have not been released on the [Umbraco Marketplace](https://marketplace.umbraco.com/) before October 2023.  
