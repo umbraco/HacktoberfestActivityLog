@@ -30,7 +30,6 @@ Eligible contributions according to the [Hacktoberfest guidelines](https://hackt
 Contributions:
 
 - 2023-10-30 - [Alex Lovell](https://github.com/Truealex4) - Accessibility testing of v10 CMS and raising issues - [Issues](https://github.com/umbraco/Umbraco-CMS/issues?q=is%3Aissue+author%3ATruealex4+created%3A2023-10-01..2023-10-31+accessibility)
-- 2023-10-30 - [Alex Lovell](https://github.com/Truealex4) - Accessibility testing of v10 CMS and raising issue - Issue #15070 https://github.com/umbraco/Umbraco-CMS/issues/15070 - contrast issue on 'Login' CTA
 - 2023-10-30 - [Alex Lovell](https://github.com/Truealex4) - Accessibility testing of v10 CMS and raising issue - Issue #15071 https://github.com/umbraco/Umbraco-CMS/issues/15071 - 'Select All' button has no accessible name
 
 - 2022-10-21 - Jeroen Breuer - Testing Umbraco 11 Release Candidate - [Umbraco OpenID Connect example package on V11 RC](https://github.com/jbreuer/Umbraco-OpenIdConnect-Example/commit/c3b316e90a29551684a6c66ee1361b4710756ea4) - Tested if OpenID Connect works on V11. It had some bugs and breaking changes going from V9 to V10. On V11 everything works!
