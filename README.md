@@ -29,7 +29,7 @@ Eligible contributions according to the [Hacktoberfest guidelines](https://hackt
 
 Contributions:
 
-- 2023-10-30 - [Alex Lovell](https://github.com/Truealex4) - Accessibility testing of v10 CMS and raising issue - Issue #15067 https://github.com/umbraco/Umbraco-CMS/issues/15067 - Contrast issue upon successful login landing page
+- 2023-10-30 - [Alex Lovell](https://github.com/Truealex4) - Accessibility testing of v10 CMS and raising issues - [Issues](https://github.com/umbraco/Umbraco-CMS/issues?q=is%3Aissue+author%3ATruealex4+created%3A2023-10-01..2023-10-31+accessibility)
 - 2023-10-30 - [Alex Lovell](https://github.com/Truealex4) - Accessibility testing of v10 CMS and raising issue - Issue #15068 https://github.com/umbraco/Umbraco-CMS/issues/15068 - Media library is missing alt text attribute
 - 2023-10-30 - [Alex Lovell](https://github.com/Truealex4) - Accessibility testing of v10 CMS and raising issue - Issue #15069 https://github.com/umbraco/Umbraco-CMS/issues/15069 - Umbraco logo is missing alt attribute
 - 2023-10-30 - [Alex Lovell](https://github.com/Truealex4) - Accessibility testing of v10 CMS and raising issue - Issue #15070 https://github.com/umbraco/Umbraco-CMS/issues/15070 - contrast issue on 'Login' CTA
