@@ -65,6 +65,8 @@ Contributions:
 - 2023-10-29 - [Richard Jackson](https://github.com/jacksorjacksor) - [YouTube Tutorial](https://youtu.be/RNesCW0AncM) - Returning a View with a custom Model - Umbraco CMS 10
 - 2023-10-26 - [Paul Seal](https://github.com/prjseal) - [Blog posts](https://codeshare.co.uk/blog/how-to-create-a-github-repository-picker-using-octokit-and-contentment/) - "How to create a GitHub Repository Picker using Octokit and Contentment"
 - 2023-10-26 - [Richard Jackson](https://github.com/jacksorjacksor) - Speaker at [UmbraCymru](https://www.meetup.com/umbracymru/events/296277693/) - Gave a talk called "Umbracademia" discussing my own MSc. Computing dissertation project
+- 2023-10-30 - [Rachel Breeze](https://github.com/RachBreeze) - Speaker at with Phil Whittaker [Manchester Tech Festival](https://www.manchestertechfestival.co.uk/2023-festival/) as part of their (Pathways into Tech track)[https://www.manchestertechfestival.co.uk/pathways-into-tech/] about the benefits of attending meetups, conferences and unconferences. As well as showing how Umbraco Manchester and Leeds are run, to help attendees grow, and the value of being part of the Umbraco community.
+
 ## New Umbraco packages
 
 Eligible contributions are brand new packages (Umbraco plugins) that have not been released on the [Umbraco Marketplace](https://marketplace.umbraco.com/) before October 2023.  
@@ -76,10 +78,8 @@ Contributions:
 - 2023-10-16 - [Huw Reddick](https://github.com/huwred) - [New Package](https://marketplace.umbraco.com/package/our.community.rssview) - "Our.Community.RssView - Simple RSS feed viewer Property Editor for Umbraco"
 - 2023-10-19 - [Luke Fisher](https://github.com/ljfio) - [New Package](https://marketplace.umbraco.com/package/our.umbraco.invisiblenodes) - "Our.Umbraco.InvisibleNodes - Make nodes 'invisible' in Umbraco 10+"
 - 2023-10-20 - [Huw Reddick](https://github.com/huwred) - [New Package](https://marketplace.umbraco.com/package/our.community.configuration) - "Our.Community.Configuration - Store custom config data in the umbraco database"
-
 - 2023-10-26 - [Rick Mason](https://github.com/sussexrick) - [New Package](https://marketplace.umbraco.com/package/ThePensionsRegulator.GovUk.Frontend.Umbraco) - "ThePensionsRegulator.GovUk.Frontend.Umbraco - Use the GOV.UK design system in Umbraco"
 - 2023-10-26 - [Rick Mason](https://github.com/sussexrick) - [New Package](https://marketplace.umbraco.com/package/ThePensionsRegulator.Umbraco.Testing) - "ThePensionsRegulator.Umbraco.Testing - Umbraco unit testing helper library"
-
 - 2023-10-26 - [Matthew Wise](https://github.com/Matthew-Wise) - [New Package](https://marketplace.umbraco.com/package/umbraco.community.cspmanager) - "Umbraco.Community.CspManager - CMS managed Content Security Policy"
 
 ## Sponsor a GitHub repo
