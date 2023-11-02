@@ -66,6 +66,7 @@ Contributions:
 - 2023-10-29 - [Richard Jackson](https://github.com/jacksorjacksor) - [YouTube Tutorial](https://youtu.be/RNesCW0AncM) - Returning a View with a custom Model - Umbraco CMS 10
 - 2023-10-26 - [Paul Seal](https://github.com/prjseal) - [Blog posts](https://codeshare.co.uk/blog/how-to-create-a-github-repository-picker-using-octokit-and-contentment/) - "How to create a GitHub Repository Picker using Octokit and Contentment"
 - 2023-10-26 - [Richard Jackson](https://github.com/jacksorjacksor) - Speaker at [UmbraCymru](https://www.meetup.com/umbracymru/events/296277693/) - Gave a talk called "Umbracademia" discussing my own MSc. Computing dissertation project
+- 2023-10-27 - [Jeroen Koppenol](https://github.com/jerpenol) - [(Draft) Skrift article](https://skrift.io/) - "Centralized logging within Umbraco" (publication in 2024)
 - 2023-10-30 - [Rachel Breeze](https://github.com/RachBreeze) - Speaker at with Phil Whittaker [Manchester Tech Festival](https://www.manchestertechfestival.co.uk/2023-festival/) as part of their (Pathways into Tech track)[https://www.manchestertechfestival.co.uk/pathways-into-tech/] about the benefits of attending meetups, conferences and unconferences. As well as showing how Umbraco Manchester and Leeds are run, to help attendees grow, and the value of being part of the Umbraco community.
 
 ## New Umbraco packages
