@@ -34,6 +34,7 @@ Eligible contributions according to the [Hacktoberfest guidelines](https://hackt
 Contributions:
 
 <!-- Add your low code/no code contribution here-->
+- 2024-10-01 - Warren Buckley - Skrift Article - [How to create custom Umbraco User permissions in Belissima](https://skrift.io/issues/how-to-create-custom-umbraco-user-permissions-in-belissima/) - Wrote a Skrift article/tutorial on how to add custom permissions to Belissima
 
 ## New Umbraco packages
 
