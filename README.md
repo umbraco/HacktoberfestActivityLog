@@ -1,7 +1,7 @@
 # Hacktoberfest Activity Log
 This repository tracks contributions to Umbraco that are not based on a pull request being submitted. 
 
-If you're doing anything significant during Hacktoberfest, please create a pull request to this `README.md` file to track it in one of the categories below, categories are:
+If you're doing anything significant related to Umbraco during Hacktoberfest, please create a pull request to this `README.md` file to track it in one of the categories below, categories are:
  - Low-code / no-code contributions
  - New Umbraco packages
  - Sponsoring an Umbraco related GitHub repository
