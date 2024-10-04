@@ -37,6 +37,7 @@ Contributions:
 - 2024-10-01 - Warren Buckley - Skrift Article - [How to create custom Umbraco User permissions in Belissima](https://skrift.io/issues/how-to-create-custom-umbraco-user-permissions-in-belissima/) - Wrote a Skrift article/tutorial on how to add custom permissions to Belissima
 - 2024-10-01 - Jeroen Breuer - Blog - [My DF24 - The Dutch Umbraco Experience highlights](https://www.jeroenbreuer.nl/blog/my-df24-the-dutch-umbraco-experience-highlights/) - A summary of my DF24 - The Dutch Umbraco Experience highlights.
 - 2024-10-04 - Warren Buckley - Umbraco 15 Release Candidate testing - [TipTap RTE Config Feedback](https://github.com/umbraco/Umbraco-CMS/issues/17188)
+- 2024-10-04 - Warren Buckley - Umbraco 15 Release Candidate testing - [TipTap RTE Toolbar Button Feedback](https://github.com/umbraco/Umbraco-CMS/issues/17190)
 
 ## New Umbraco packages
 
