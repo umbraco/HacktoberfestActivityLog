@@ -38,6 +38,7 @@ Contributions:
 - 2024-10-01 - Jeroen Breuer - Blog - [My DF24 - The Dutch Umbraco Experience highlights](https://www.jeroenbreuer.nl/blog/my-df24-the-dutch-umbraco-experience-highlights/) - A summary of my DF24 - The Dutch Umbraco Experience highlights.
 - 2024-10-04 - Warren Buckley - Umbraco 15 Release Candidate testing - [TipTap RTE Config Feedback](https://github.com/umbraco/Umbraco-CMS/issues/17188)
 - 2024-10-04 - Warren Buckley - Umbraco 15 Release Candidate testing - [TipTap RTE Toolbar Button Feedback](https://github.com/umbraco/Umbraco-CMS/issues/17190)
+- 2024-10-11 - Søren Kottal - Wrote a blog post about my new package - [Make your own Umbraco Starter Kit without making a Starter Kit](https://dev.to/skttl/make-your-own-umbraco-starter-kit-without-making-a-starter-kit-53lo)
 
 ## New Umbraco packages
 
