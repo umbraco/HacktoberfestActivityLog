@@ -38,13 +38,13 @@ Contributions:
 - 2024-10-01 - Jeroen Breuer - Blog - [My DF24 - The Dutch Umbraco Experience highlights](https://www.jeroenbreuer.nl/blog/my-df24-the-dutch-umbraco-experience-highlights/) - A summary of my DF24 - The Dutch Umbraco Experience highlights.
 - 2024-10-04 - Warren Buckley - Umbraco 15 Release Candidate testing - [TipTap RTE Config Feedback](https://github.com/umbraco/Umbraco-CMS/issues/17188)
 - 2024-10-04 - Warren Buckley - Umbraco 15 Release Candidate testing - [TipTap RTE Toolbar Button Feedback](https://github.com/umbraco/Umbraco-CMS/issues/17190)
-- 2024-10-11 - Søren Kottal - Wrote a blog post about my new package - [Make your own Umbraco Starter Kit without making a Starter Kit](https://dev.to/skttl/make-your-own-umbraco-starter-kit-without-making-a-starter-kit-53lo)
 - 2024-10-04 - Janae Cram - US Festival Presentation (and Demo repo) - [US Festival Speaker List](https://umbracofestival.us/speakers/), [Demo Site](https://github.com/naepalm/TinyMcePresentation) - Presentation at the US Festival inspired by Lee's Finding Contentment talk about the features of TinyMCE that can be used in the backoffice.
+- 2024-10-11 - Søren Kottal - Wrote a blog post about my new package - [Make your own Umbraco Starter Kit without making a Starter Kit](https://dev.to/skttl/make-your-own-umbraco-starter-kit-without-making-a-starter-kit-53lo)
+- 2024-10-12 - Carole Logan - Umbraco 15 release candidate testing, issue raised - [v15-RC1: RTE doesn't allow pasting in images](https://github.com/umbraco/Umbraco-CMS/issues/17258)
+- 2024-10-12 - Carole Logan - Umbraco 15 release candidate testing, issue raised - [RTE custom dimensions not applying](https://github.com/umbraco/Umbraco-CMS/issues/17259)
 - 2024-10-17 - Carl Sargunar - Speak at a .NET meetup about .NET Aspire and sneak in some Umbraco Examples - [https://www.meetup.com/developersouthcoast/events/302790713](https://www.meetup.com/developersouthcoast/events/302790713)
 - 2024-10-30 - Carl Sargunar - Organise a meetup (with Adam Prendergast) and also speaking at that meetup - [https://www.meetup.com/dotnetsouthwest/events/303746106/](https://www.meetup.com/dotnetsouthwest/events/303746106/)
 - 2024-10-31 - Carl Sargunar - Speaking at a meetup (with Adam Prendergast) about Umbraco and Maui - [https://www.meetup.com/umbracymru/events/298562662](https://www.meetup.com/umbracymru/events/298562662)
-- 2024-10-12 - Carole Logan - Umbraco 15 release candidate testing, issue raised - [v15-RC1: RTE doesn't allow pasting in images](https://github.com/umbraco/Umbraco-CMS/issues/17258)
-- 2024-10-12 - Carole Logan - Umbraco 15 release candidate testing, issue raised - [RTE custom dimensions not applying](https://github.com/umbraco/Umbraco-CMS/issues/17259)
 ## New Umbraco packages
 
 Eligible contributions are brand new packages (Umbraco plugins) that have not been released on the [Umbraco Marketplace](https://marketplace.umbraco.com/) before October 2024.  
