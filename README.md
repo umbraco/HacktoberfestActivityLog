@@ -53,6 +53,7 @@ Packages for Umbraco 14 and 15, are eligible by default, even if the equivalent 
 Contributions:
 
 - 2024-10-11 - Søren Kottal - Released two new packages - [Schemex Exporter](https://marketplace.umbraco.com/package/umbraco.community.schemex.exporter) and [Schemex Importer](https://marketplace.umbraco.com/package/umbraco.community.schemex.importer)
+- 2024-10-12 - Søren Kottal - Released v5 🫨 of [Full Text Search](https://marketplace.umbraco.com/package/our.umbraco.fulltextsearch) for Umbraco 14 (and 15)
 
 ## Sponsor a GitHub repo
 
