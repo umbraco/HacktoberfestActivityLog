@@ -48,7 +48,6 @@ Contributions:
 - 2024-10-30 - Adam Prendergast - Speaking at .Net South West meetup in the UK on Astro & Umbraco Content Delivery API - [https://www.meetup.com/dotnetsouthwest/events/303746106/](https://www.meetup.com/dotnetsouthwest/events/303746106/)
 - 2024-10-31 - Carl Sargunar - Speaking at a meetup about Umbraco and Maui - [https://www.meetup.com/umbracymru/events/298562662](https://www.meetup.com/umbracymru/events/298562662)
 - 2024-10-31 - Adam Prendergast - Speaking at UmbraCymru meetup about Astro & Umbraco Content Delivery API - [https://www.meetup.com/umbracymru/events/298562662](https://www.meetup.com/umbracymru/events/298562662)
-- 2024-10-15 - Kaspar Boel Kjeldsen - Released v3 of [Knowit.Umbraco.InstantBlockPreview](https://marketplace.umbraco.com/package/knowit.umbraco.instantblockpreview) (link to nuget as Um - Supporting the new "Block Level Variance" in the generated previews.
 ## New Umbraco packages
 
 Eligible contributions are brand new packages (Umbraco plugins) that have not been released on the [Umbraco Marketplace](https://marketplace.umbraco.com/) before October 2024.  
@@ -59,6 +58,7 @@ Contributions:
 
 - 2024-10-11 - Søren Kottal - Released two new packages - [Schemex Exporter](https://marketplace.umbraco.com/package/umbraco.community.schemex.exporter) and [Schemex Importer](https://marketplace.umbraco.com/package/umbraco.community.schemex.importer)
 - 2024-10-12 - Søren Kottal - Released v5 🫨 of [Full Text Search](https://marketplace.umbraco.com/package/our.umbraco.fulltextsearch) for Umbraco 14 (and 15)
+- 2024-10-15 - Kaspar Boel Kjeldsen - Released v3 of [Knowit.Umbraco.InstantBlockPreview](https://marketplace.umbraco.com/package/knowit.umbraco.instantblockpreview) Supporting the new "Block Level Variance" in the generated previews.
 
 ## Sponsor a GitHub repo
 
