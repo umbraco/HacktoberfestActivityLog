@@ -42,18 +42,19 @@ Contributions:
 - 2024-10-04 - Adam Prendergast - Speaker at US Festival - [US Festival Speaker List](https://umbracofestival.us/speakers/) - Astro & Umbraco Content Delivery API
 - 2024-10-11 - Søren Kottal - Wrote a blog post about my new package - [Make your own Umbraco Starter Kit without making a Starter Kit](https://dev.to/skttl/make-your-own-umbraco-starter-kit-without-making-a-starter-kit-53lo)
 - 2024-10-12 - Carole Logan - Umbraco 15 release candidate testing, issue raised - [v15-RC1: RTE doesn't allow pasting in images](https://github.com/umbraco/Umbraco-CMS/issues/17258)
-- 2024-10-14 - Adam Prendergast - Updated the [Umbraco Guide](https://docs.astro.build/en/guides/cms/umbraco/#community-resources) on the official Astro docs to contain a link to the 'Bake, Don't Fry' CodeGarden talk
 - 2024-10-12 - Carole Logan - Umbraco 15 release candidate testing, issue raised - [RTE custom dimensions not applying](https://github.com/umbraco/Umbraco-CMS/issues/17259)
+- 2024-10-14 - Adam Prendergast - Updated the [Umbraco Guide](https://docs.astro.build/en/guides/cms/umbraco/#community-resources) on the official Astro docs to contain a link to the 'Bake, Don't Fry' CodeGarden talk
 - 2024-10-15 - Thomas Clement Mogensen - [Property alias does not change or reflect correctly in new Backoffice #16942](https://github.com/umbraco/Umbraco-CMS/issues/16942) - Tested issue to be no longer reproduceable in latest Umbraco 14.x or 15.x.
+- 2024-10-15 - Kaspar Boel Kjeldsen - Umbraco 15 release candidate testing, issue raised - [v15.0-rc1 Live editing mode not working for blocklist and blockgrid](https://github.com/umbraco/Umbraco-CMS/issues/17274)
+- 2024-10-15 - Kaspar Boel Kjeldsen - Umbraco 15 release candidate testing, issue raised - [v15.0-rc1 Variant Blocks create duplicates in the frontend when created in an area](https://github.com/umbraco/Umbraco-CMS/issues/17282)
 - 2024-10-17 - Carl Sargunar - Speak at a .NET meetup about .NET Aspire and sneak in some Umbraco Examples - [https://www.meetup.com/developersouthcoast/events/302790713](https://www.meetup.com/developersouthcoast/events/302790713)
+- 2024-10-17 - Justin Neville - Hacktoberfest Meetup - Organized the Umbraco Kent Meetup Hactoberfest Meetup - [https://www.meetup.com/umbraco-kent-meetup/events/303812665]
 - 2024-10-17 - Busra Sengul - An Article about Umbraco Forms Custom Field Types [https://dev.to/busrasengul/umbraco-forms-12-custom-field-type-4dfc](https://dev.to/busrasengul/umbraco-forms-12-custom-field-type-4dfc)
+- 2024-10-17 - Michael Latouche - BUUG Meetup - Co-organized and co-hosted the Belgian Umbraco User Group Meetup - [https://www.meetup.com/belgian-umbraco-user-group/events/302717025](https://www.meetup.com/belgian-umbraco-user-group/events/302717025)
 - 2024-10-30 - Carl Sargunar - Organise a meetup and also speaking at that meetup - [https://www.meetup.com/dotnetsouthwest/events/303746106/](https://www.meetup.com/dotnetsouthwest/events/303746106/)
 - 2024-10-30 - Adam Prendergast - Speaking at .Net South West meetup in the UK on Astro & Umbraco Content Delivery API - [https://www.meetup.com/dotnetsouthwest/events/303746106/](https://www.meetup.com/dotnetsouthwest/events/303746106/)
 - 2024-10-31 - Carl Sargunar - Speaking at a meetup about Umbraco and Maui - [https://www.meetup.com/umbracymru/events/298562662](https://www.meetup.com/umbracymru/events/298562662)
 - 2024-10-31 - Adam Prendergast - Speaking at UmbraCymru meetup about Astro & Umbraco Content Delivery API - [https://www.meetup.com/umbracymru/events/298562662](https://www.meetup.com/umbracymru/events/298562662)
-- 2024-10-17 - Justin Neville - Hacktoberfest Meetup - Organized the Umbraco Kent Meetup Hactoberfest Meetup - [https://www.meetup.com/umbraco-kent-meetup/events/303812665]
-- 2024-10-15 - Kaspar Boel Kjeldsen - Umbraco 15 release candidate testing, issue raised - [v15.0-rc1 Live editing mode not working for blocklist and blockgrid](https://github.com/umbraco/Umbraco-CMS/issues/17274)
-- 2024-10-15 - Kaspar Boel Kjeldsen - Umbraco 15 release candidate testing, issue raised - [v15.0-rc1 Variant Blocks create duplicates in the frontend when created in an area](https://github.com/umbraco/Umbraco-CMS/issues/17282)
 
 ## New Umbraco packages
 
