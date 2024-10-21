@@ -55,6 +55,8 @@ Contributions:
 - 2024-10-30 - Adam Prendergast - Speaking at .Net South West meetup in the UK on Astro & Umbraco Content Delivery API - [https://www.meetup.com/dotnetsouthwest/events/303746106/](https://www.meetup.com/dotnetsouthwest/events/303746106/)
 - 2024-10-31 - Carl Sargunar - Speaking at a meetup about Umbraco and Maui - [https://www.meetup.com/umbracymru/events/298562662](https://www.meetup.com/umbracymru/events/298562662)
 - 2024-10-31 - Adam Prendergast - Speaking at UmbraCymru meetup about Astro & Umbraco Content Delivery API - [https://www.meetup.com/umbracymru/events/298562662](https://www.meetup.com/umbracymru/events/298562662)
+- 2024-10-21 - Bernadet Goey - Wrote a blog post about communicating with custom API endpoints in Umbraco 14 - [Communicate with a custom API endpoint in Umbraco 14 – Part 1](https://tech.ilionx.com/communicate-with-a-custom-api-endpoint-in-umbraco-14-part-1/)
+- 2024-10-21 - Bernadet Goey - Umbraco 15 release candidate testing, issue raised - [V15-RC2 URL to document types in settings occasionally gets stuck on /root and it won't show content](https://github.com/umbraco/Umbraco-CMS/issues/17326)
 
 ## New Umbraco packages
 
