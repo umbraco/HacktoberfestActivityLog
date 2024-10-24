@@ -67,6 +67,7 @@ Contributions:
 - 2024-10-11 - Søren Kottal - Released two new packages - [Schemex Exporter](https://marketplace.umbraco.com/package/umbraco.community.schemex.exporter) and [Schemex Importer](https://marketplace.umbraco.com/package/umbraco.community.schemex.importer)
 - 2024-10-12 - Søren Kottal - Released v5 🫨 of [Full Text Search](https://marketplace.umbraco.com/package/our.umbraco.fulltextsearch) for Umbraco 14 (and 15)
 - 2024-10-15 - Kaspar Boel Kjeldsen - Released v3 of [Knowit.Umbraco.InstantBlockPreview](https://marketplace.umbraco.com/package/knowit.umbraco.instantblockpreview) Supporting the new "Block Level Variance" in the generated previews.
+- 2024-10-23  - James Carter - Released [Groups to Tabs](https://marketplace.umbraco.com/package/jcdcdev.umbraco.groupstotabs) for Umbraco 14 & 15
 - 2024-10-24 - Kaspar Boel Kjeldsen - Relased v1 of [Knowit.Umbraco.TokenReplacement](https://marketplace.umbraco.com/package/knowit.umbraco.tokenreplacement) Use your dictionary items in your text fields and rich text editors and have them replaced at runtime in the frontend. Supports Content Delivery Api too.
 
 ## Sponsor a GitHub repo
