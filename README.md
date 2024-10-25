@@ -58,11 +58,7 @@ Contributions:
 - 2024-10-31 - Adam Prendergast - Speaking at UmbraCymru meetup about Astro & Umbraco Content Delivery API - [https://www.meetup.com/umbracymru/events/298562662](https://www.meetup.com/umbracymru/events/298562662)
 - 2024-10-21 - Bernadet Goey - Wrote a blog post about communicating with custom API endpoints in Umbraco 14 - [Communicate with a custom API endpoint in Umbraco 14 – Part 1](https://tech.ilionx.com/communicate-with-a-custom-api-endpoint-in-umbraco-14-part-1/)
 - 2024-10-21 - Bernadet Goey - Umbraco 15 release candidate testing, issue raised - [V15-RC2 URL to document types in settings occasionally gets stuck on /root and it won't show content](https://github.com/umbraco/Umbraco-CMS/issues/17326)
-- 2024-10-19 - James Carter - Umbraco 15 release candidate testing - [[v15 rc2] Backoffice Localization - What replaces ManifestLocalization?](https://github.com/umbraco/Umbraco-CMS/issues/17317)
-- 2024-10-23 - Anders Brohäll (Obviuse) - Co-organize Umbracokalset in Sweden
-- 2024-10-23 - Tobias Dahlgren (Toxic) - Co-organize Umbracokalset in Sweden
-- 2024-10-23 - Daniel Andersson (Toxic) - Co-organize Umbracokalset in Sweden
-- 2024-10-23 - Markus Johansson (Obviuse) - Co-organize Umbracokalset in Sweden
+- 2024-10-25 - Nik Rimington - Blog post introducing [Accessible Media Picker](https://www.justnik.me/blog/introducing-accessible-media-picker-for-umbraco-v13)
 
 ## New Umbraco packages
 
@@ -77,6 +73,7 @@ Contributions:
 - 2024-10-15 - Kaspar Boel Kjeldsen - Released v3 of [Knowit.Umbraco.InstantBlockPreview](https://marketplace.umbraco.com/package/knowit.umbraco.instantblockpreview) Supporting the new "Block Level Variance" in the generated previews.
 - 2024-10-23  - James Carter - Released [Groups to Tabs](https://marketplace.umbraco.com/package/jcdcdev.umbraco.groupstotabs) for Umbraco 14 & 15
 - 2024-10-24 - Kaspar Boel Kjeldsen - Relased v1 of [Knowit.Umbraco.TokenReplacement](https://marketplace.umbraco.com/package/knowit.umbraco.tokenreplacement) Use your dictionary items in your text fields and rich text editors and have them replaced at runtime in the frontend. Supports Content Delivery Api too.
+- 2024-10-25 - Nik Rimington - Released v1 of [Accessible Media Picker](https://marketplace.umbraco.com/package/hcs.media.accessiblemediapicker) Help editors have more control over their Alt Descriptions for images.
 
 ## Sponsor a GitHub repo
 
