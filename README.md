@@ -59,6 +59,7 @@ Contributions:
 - 2024-10-21 - Bernadet Goey - Wrote a blog post about communicating with custom API endpoints in Umbraco 14 - [Communicate with a custom API endpoint in Umbraco 14 – Part 1](https://tech.ilionx.com/communicate-with-a-custom-api-endpoint-in-umbraco-14-part-1/)
 - 2024-10-21 - Bernadet Goey - Umbraco 15 release candidate testing, issue raised - [V15-RC2 URL to document types in settings occasionally gets stuck on /root and it won't show content](https://github.com/umbraco/Umbraco-CMS/issues/17326)
 - 2024-10-25 - Nik Rimington - Blog post introducing [Accessible Media Picker](https://www.justnik.me/blog/introducing-accessible-media-picker-for-umbraco-v13)
+- 2024-10-27 - Nurhak Kaya - An Article about [How to sort items by a custom date in an Umbraco v13+ Examine Index](https://www.nurhakkaya.com/2024/10/how-to-sort-items-by-custom-date-in.html)
 
 ## New Umbraco packages
 
