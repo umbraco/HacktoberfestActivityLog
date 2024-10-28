@@ -66,6 +66,8 @@ Contributions:
 - 2024-10-21 - Bernadet Goey - Umbraco 15 release candidate testing, issue raised - [V15-RC2 URL to document types in settings occasionally gets stuck on /root and it won't show content](https://github.com/umbraco/Umbraco-CMS/issues/17326)
 - 2024-10-25 - Nik Rimington - Blog post introducing [Accessible Media Picker](https://www.justnik.me/blog/introducing-accessible-media-picker-for-umbraco-v13)
 - 2024-10-27 - Nurhak Kaya - An Article about [How to sort items by a custom date in an Umbraco v13+ Examine Index](https://www.nurhakkaya.com/2024/10/how-to-sort-items-by-custom-date-in.html)
+- 2024-10-28 - Dhanesh Kumar MJ - An Article about [From TinyMCE to TipTap: The Future of Umbraco’s Rich Text Editing](https://medium.com/@dev.mjdhanesh/from-tinymce-to-tiptap-the-future-of-umbracos-rich-text-editing-e09a77317fda)
+- 2024-10-28 - Dhanesh Kumar MJ - Umbraco 15 Release Candidate testing [Media can create without uploading any physical file](https://github.com/umbraco/Umbraco-CMS/issues/17372)
 
 ## New Umbraco packages
 
