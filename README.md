@@ -58,6 +58,7 @@ Contributions:
 - 2024-10-17 - Yari Mariën - Spoke about CODECABIN experience at BUUG Meetup.
 - 2024-10-21 - Jesper Mayntzhusen - Skrift Article - [How to do custom import/export actions in Umbraco UI Builder](tbd) - Wrote a Skrift article on how to do custom import/export actions in Umbraco UI Builder
 - 2024-10-21 - Amalie Wowern - Blog Post - https://blog.knowit.dk/umbraco-8-gaar-ind-i-end-of-life-status
+- 2024-10-30 - Aaron Sadler - Blog Post - [How to deploy Umbraco using Web Deploy from GitHub Actions](https://umbhost.net/blog/2024/10/how-to-deploy-umbraco-using-web-deploy-from-github-actions)
 - 2024-10-30 - Carl Sargunar - Organise a meetup and also speaking at that meetup - [https://www.meetup.com/dotnetsouthwest/events/303746106/](https://www.meetup.com/dotnetsouthwest/events/303746106/)
 - 2024-10-30 - Adam Prendergast - Speaking at .Net South West meetup in the UK on Astro & Umbraco Content Delivery API - [https://www.meetup.com/dotnetsouthwest/events/303746106/](https://www.meetup.com/dotnetsouthwest/events/303746106/)
 - 2024-10-31 - Carl Sargunar - Speaking at a meetup about Umbraco and Maui - [https://www.meetup.com/umbracymru/events/298562662](https://www.meetup.com/umbracymru/events/298562662)
