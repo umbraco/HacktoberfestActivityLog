@@ -66,7 +66,7 @@ Contributions:
 - 2024-10-21 - Bernadet Goey - Umbraco 15 release candidate testing, issue raised - [V15-RC2 URL to document types in settings occasionally gets stuck on /root and it won't show content](https://github.com/umbraco/Umbraco-CMS/issues/17326)
 - 2024-10-25 - Nik Rimington - Blog post introducing [Accessible Media Picker](https://www.justnik.me/blog/introducing-accessible-media-picker-for-umbraco-v13)
 - 2024-10-27 - Nurhak Kaya - An Article about [How to sort items by a custom date in an Umbraco v13+ Examine Index](https://www.nurhakkaya.com/2024/10/how-to-sort-items-by-custom-date-in.html)
-
+- 2024-10-29 - Debasish Gracias - A technical talk - [https://www.linkedin.com/posts/clerkswell_techyon2024-webaccessibility-sustainability-activity-7255579500053245954-sQzI?utm_source=share&utm_medium=member_desktop] - Spoke on sustainability in web design(Umbraco) 
 ## New Umbraco packages
 
 Eligible contributions are brand new packages (Umbraco plugins) that have not been released on the [Umbraco Marketplace](https://marketplace.umbraco.com/) before October 2024.  
