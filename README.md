@@ -58,19 +58,22 @@ Contributions:
 - 2024-10-17 - Yari Mariën - Spoke about CODECABIN experience at BUUG Meetup.
 - 2024-10-21 - Jesper Mayntzhusen - Skrift Article - [How to do custom import/export actions in Umbraco UI Builder](tbd) - Wrote a Skrift article on how to do custom import/export actions in Umbraco UI Builder
 - 2024-10-21 - Amalie Wowern - Blog Post - https://blog.knowit.dk/umbraco-8-gaar-ind-i-end-of-life-status
-- 2024-10-30 - Aaron Sadler - Blog Post - [How to deploy Umbraco using Web Deploy from GitHub Actions](https://umbhost.net/blog/2024/10/how-to-deploy-umbraco-using-web-deploy-from-github-actions)
-- 2024-10-30 - Carl Sargunar - Organise a meetup and also speaking at that meetup - [https://www.meetup.com/dotnetsouthwest/events/303746106/](https://www.meetup.com/dotnetsouthwest/events/303746106/)
-- 2024-10-30 - Adam Prendergast - Speaking at .Net South West meetup in the UK on Astro & Umbraco Content Delivery API - [https://www.meetup.com/dotnetsouthwest/events/303746106/](https://www.meetup.com/dotnetsouthwest/events/303746106/)
-- 2024-10-31 - Carl Sargunar - Speaking at a meetup about Umbraco and Maui - [https://www.meetup.com/umbracymru/events/298562662](https://www.meetup.com/umbracymru/events/298562662)
-- 2024-10-31 - Adam Prendergast - Speaking at UmbraCymru meetup about Astro & Umbraco Content Delivery API - [https://www.meetup.com/umbracymru/events/298562662](https://www.meetup.com/umbracymru/events/298562662)
 - 2024-10-21 - Bernadet Goey - Wrote a blog post about communicating with custom API endpoints in Umbraco 14 - [Communicate with a custom API endpoint in Umbraco 14 – Part 1](https://tech.ilionx.com/communicate-with-a-custom-api-endpoint-in-umbraco-14-part-1/)
 - 2024-10-21 - Bernadet Goey - Umbraco 15 release candidate testing, issue raised - [V15-RC2 URL to document types in settings occasionally gets stuck on /root and it won't show content](https://github.com/umbraco/Umbraco-CMS/issues/17326)
 - 2024-10-25 - Nik Rimington - Blog post introducing [Accessible Media Picker](https://www.justnik.me/blog/introducing-accessible-media-picker-for-umbraco-v13)
 - 2024-10-27 - Nurhak Kaya - An Article about [How to sort items by a custom date in an Umbraco v13+ Examine Index](https://www.nurhakkaya.com/2024/10/how-to-sort-items-by-custom-date-in.html)
-- 2024-10-30 - Daniel Cutts - An Article about [Sanitising Umbraco Forms Live Database for Development](https://dev.to/potatocutts/sanitising-umbraco-forms-live-database-for-development-6eb)
-- 2024-10-30 - Busra Sengul - An article about [Managing Stale Carts in Umbraco Commerce](https://dev.to/busrasengul/managing-stale-carts-in-umbraco-commerce-2092)
-
+- 2024-10-28 - Dhanesh Kumar MJ - Umbraco 15 Release Candidate testing [Media can create without uploading any physical file](https://github.com/umbraco/Umbraco-CMS/issues/17372)
+- 2024-10-28 - Dhanesh Kumar MJ - An Article about [From TinyMCE to TipTap: The Future of Umbraco’s Rich Text Editing](https://medium.com/@dev.mjdhanesh/from-tinymce-to-tiptap-the-future-of-umbracos-rich-text-editing-e09a77317fda)
 - 2024-10-29 - Debasish Gracias - A technical talk - [https://www.linkedin.com/posts/clerkswell_techyon2024-webaccessibility-sustainability-activity-7255579500053245954-sQzI?utm_source=share&utm_medium=member_desktop] - Spoke on sustainability in web design(Umbraco) 
+- 2024-10-30 - Jeroen Breuer - Umbraco 15 Release Candidate testing - [Upgraded Umbraco OpenID Connect example package to v15-RC2](https://github.com/jbreuer/Umbraco-OpenIdConnect-Example/commit/184f92baec7d35c5982ec3f61223f970150c0764)
+- 2024-10-30 - Daniel Cutts - An Article about [Sanitising Umbraco Forms Live Database for Development](https://dev.to/potatocutts/sanitising-umbraco-forms-live-database-for-development-6eb)
+- 2024-10-30 - Aaron Sadler - Blog Post - [How to deploy Umbraco using Web Deploy from GitHub Actions](https://umbhost.net/blog/2024/10/how-to-deploy-umbraco-using-web-deploy-from-github-actions)
+- 2024-10-30 - Carl Sargunar - Organise a meetup and also speaking at that meetup - [https://www.meetup.com/dotnetsouthwest/events/303746106/](https://www.meetup.com/dotnetsouthwest/events/303746106/)
+- 2024-10-30 - Adam Prendergast - Speaking at .Net South West meetup in the UK on Astro & Umbraco Content Delivery API - [https://www.meetup.com/dotnetsouthwest/events/303746106/](https://www.meetup.com/dotnetsouthwest/events/303746106/)
+- 2024-10-30 - Busra Sengul - An article about [Managing Stale Carts in Umbraco Commerce](https://dev.to/busrasengul/managing-stale-carts-in-umbraco-commerce-2092)
+- 2024-10-31 - Carl Sargunar - Speaking at a meetup about Umbraco and Maui - [https://www.meetup.com/umbracymru/events/298562662](https://www.meetup.com/umbracymru/events/298562662)
+- 2024-10-31 - Adam Prendergast - Speaking at UmbraCymru meetup about Astro & Umbraco Content Delivery API - [https://www.meetup.com/umbracymru/events/298562662](https://www.meetup.com/umbracymru/events/298562662)
+
 ## New Umbraco packages
 
 Eligible contributions are brand new packages (Umbraco plugins) that have not been released on the [Umbraco Marketplace](https://marketplace.umbraco.com/) before October 2024.  
