@@ -68,6 +68,7 @@ Contributions:
 - 2024-10-25 - Nik Rimington - Blog post introducing [Accessible Media Picker](https://www.justnik.me/blog/introducing-accessible-media-picker-for-umbraco-v13)
 - 2024-10-27 - Nurhak Kaya - An Article about [How to sort items by a custom date in an Umbraco v13+ Examine Index](https://www.nurhakkaya.com/2024/10/how-to-sort-items-by-custom-date-in.html)
 - 2024-10-29 - Debasish Gracias - A technical talk - [https://www.linkedin.com/posts/clerkswell_techyon2024-webaccessibility-sustainability-activity-7255579500053245954-sQzI?utm_source=share&utm_medium=member_desktop] - Spoke on sustainability in web design(Umbraco) 
+- 2024-10-30 - Jeroen Breuer - Umbraco 15 Release Candidate testing - [Upgraded Umbraco OpenID Connect example package to v15-RC2](https://github.com/jbreuer/Umbraco-OpenIdConnect-Example/commit/184f92baec7d35c5982ec3f61223f970150c0764)
 ## New Umbraco packages
 
 Eligible contributions are brand new packages (Umbraco plugins) that have not been released on the [Umbraco Marketplace](https://marketplace.umbraco.com/) before October 2024.  
