@@ -71,6 +71,7 @@ Contributions:
 - 2024-10-28 - Dhanesh Kumar MJ - Umbraco 15 Release Candidate testing [Media can create without uploading any physical file](https://github.com/umbraco/Umbraco-CMS/issues/17372)
 - 2024-10-28 - Dhanesh Kumar MJ - An Article about [From TinyMCE to TipTap: The Future of Umbraco’s Rich Text Editing](https://medium.com/@dev.mjdhanesh/from-tinymce-to-tiptap-the-future-of-umbracos-rich-text-editing-e09a77317fda)
 - 2024-10-29 - Debasish Gracias - A technical talk - [https://www.linkedin.com/posts/clerkswell_techyon2024-webaccessibility-sustainability-activity-7255579500053245954-sQzI?utm_source=share&utm_medium=member_desktop] - Spoke on sustainability in web design(Umbraco) 
+- 2024-10-30 - Jeroen Breuer - Umbraco 15 Release Candidate testing - [Upgraded Umbraco OpenID Connect example package to v15-RC2](https://github.com/jbreuer/Umbraco-OpenIdConnect-Example/commit/184f92baec7d35c5982ec3f61223f970150c0764)
 ## New Umbraco packages
 
 Eligible contributions are brand new packages (Umbraco plugins) that have not been released on the [Umbraco Marketplace](https://marketplace.umbraco.com/) before October 2024.  
