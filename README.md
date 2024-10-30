@@ -84,6 +84,7 @@ Contributions:
 - 2024-10-24 - Kaspar Boel Kjeldsen - Relased v1 of [Knowit.Umbraco.TokenReplacement](https://marketplace.umbraco.com/package/knowit.umbraco.tokenreplacement) Use your dictionary items in your text fields and rich text editors and have them replaced at runtime in the frontend. Supports Content Delivery Api too.
 - 2024-10-25 - Nik Rimington - Released v1 of [Accessible Media Picker](https://marketplace.umbraco.com/package/hcs.media.accessiblemediapicker) Help editors have more control over their Alt Descriptions for images.
 
+
 ## Sponsor a GitHub repo
 
 Eligible are pledges of sponsorship to any Umbraco-related GitHub repositories or GitHub profiles (the maintainer of one or more Umbraco related repositories).  
