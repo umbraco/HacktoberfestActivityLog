@@ -76,6 +76,7 @@ Contributions:
 - 2024-10-31 - Aaron Sadler - Blog Post - [How to deploy Umbraco using Web Deploy from Azure DevOps](https://umbhost.net/blog/2024/10/how-to-deploy-umbraco-using-web-deploy-from-azure-devops)
 - 2024-10-31 - Carl Sargunar - Speaking at a meetup about Umbraco and Maui - [https://www.meetup.com/umbracymru/events/298562662](https://www.meetup.com/umbracymru/events/298562662)
 - 2024-10-31 - Adam Prendergast - Speaking at UmbraCymru meetup about Astro & Umbraco Content Delivery API - [https://www.meetup.com/umbracymru/events/298562662](https://www.meetup.com/umbracymru/events/298562662)
+- 2024-10-31 - Terence Burridge - Blog Post on Umbraco 12 and 13 performance on Mini PCs - [Umbraco 12 vs Umbraco 13 performance on a variety of mini PCs – 2024 Edition](https://codebuntes.entrah-net.co.uk/2024/10/31/umbraco-12-vs-umbraco-13-performance-on-a-variety-of-mini-pcs-2024-edition/)
 
 ## New Umbraco packages
 
