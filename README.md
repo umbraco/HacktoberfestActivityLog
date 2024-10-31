@@ -91,6 +91,7 @@ Contributions:
 - 2024-10-23 - Daniel Cutts - Released v1 of [Element Finder](https://marketplace.umbraco.com/package/pixelbuilders.umbraco.elementfinder) An Umbraco dashboard to easily find elements / blocks being used within the CMS.
 - 2024-10-24 - Kaspar Boel Kjeldsen - Relased v1 of [Knowit.Umbraco.TokenReplacement](https://marketplace.umbraco.com/package/knowit.umbraco.tokenreplacement) Use your dictionary items in your text fields and rich text editors and have them replaced at runtime in the frontend. Supports Content Delivery Api too.
 - 2024-10-25 - Nik Rimington - Released v1 of [Accessible Media Picker](https://marketplace.umbraco.com/package/hcs.media.accessiblemediapicker) Help editors have more control over their Alt Descriptions for images.
+- 2024-10-30 - Andy Boot - Released v14 of [Umbraco.Community.ClientDrawer](https://marketplace.umbraco.com/package/umbraco.community.clientdrawer). Fully rebuilt from ground up version of the v13 package, made for Bellissima 👌.
 
 ## Sponsor a GitHub repo
 
