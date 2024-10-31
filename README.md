@@ -99,4 +99,6 @@ Please add a screenshot of your first donation to the description of the pull re
 
 Contributions:
 
+- 2024-10-30 - Andy Boot - One-time sponsorship to Aaron Sadler (Thank you for the hosting this last year, as well as your hard work and commitment to the Umbraco community!)
+
 <!-- Add your sponsorship contribution here-->
