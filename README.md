@@ -37,6 +37,7 @@ Contributions:
 - 2024-10-01 - Bishal Tim - Skrift Article - [Customizing the Umbraco Tour in a Few Simple Steps](https://skrift.io/issues/customizing-the-umbraco-tour-in-a-few-simple-steps/) - Created a tutorial on customizing the Umbraco Tour.
 - 2024-10-01 - Warren Buckley - Skrift Article - [How to create custom Umbraco User permissions in Belissima](https://skrift.io/issues/how-to-create-custom-umbraco-user-permissions-in-belissima/) - Wrote a Skrift article/tutorial on how to add custom permissions to Belissima
 - 2024-10-01 - Jeroen Breuer - Blog - [My DF24 - The Dutch Umbraco Experience highlights](https://www.jeroenbreuer.nl/blog/my-df24-the-dutch-umbraco-experience-highlights/) - A summary of my DF24 - The Dutch Umbraco Experience highlights.
+- 2024-10-02 - Terence Burridge - Delivering the 2024 UMBRAAD talk looking at how we can learn from Umbraco to improve wider accessibility in person at MaccTech - [https://www.meetup.com/macctech/events/303480474/](https://www.meetup.com/macctech/events/303480474/)
 - 2024-10-03 - Michael Latouche - US Festival Community Sponsor - [US Festival Site](https://umbracofestival.us), [Sponsorship Mention](https://www.linkedin.com/feed/update/urn:li:activity:7236750976001449984/?actorCompanyId=1577318)
 - 2024-10-04 - Warren Buckley - Umbraco 15 Release Candidate testing - [TipTap RTE Config Feedback](https://github.com/umbraco/Umbraco-CMS/issues/17188)
 - 2024-10-04 - Warren Buckley - Umbraco 15 Release Candidate testing - [TipTap RTE Toolbar Button Feedback](https://github.com/umbraco/Umbraco-CMS/issues/17190)
@@ -75,6 +76,7 @@ Contributions:
 - 2024-10-30 - Busra Sengul - An article about [Managing Stale Carts in Umbraco Commerce](https://dev.to/busrasengul/managing-stale-carts-in-umbraco-commerce-2092)
 - 2024-10-31 - Carl Sargunar - Speaking at a meetup about Umbraco and Maui - [https://www.meetup.com/umbracymru/events/298562662](https://www.meetup.com/umbracymru/events/298562662)
 - 2024-10-31 - Adam Prendergast - Speaking at UmbraCymru meetup about Astro & Umbraco Content Delivery API - [https://www.meetup.com/umbracymru/events/298562662](https://www.meetup.com/umbracymru/events/298562662)
+- 2024-10-31 - Terence Burridge - Blog Post on Umbraco 12 and 13 performance on Mini PCs - [Umbraco 12 vs Umbraco 13 performance on a variety of mini PCs – 2024 Edition](https://codebuntes.entrah-net.co.uk/2024/10/31/umbraco-12-vs-umbraco-13-performance-on-a-variety-of-mini-pcs-2024-edition/)
 
 ## New Umbraco packages
 
