@@ -73,6 +73,7 @@ Contributions:
 - 2024-10-30 - Carl Sargunar - Organise a meetup and also speaking at that meetup - [https://www.meetup.com/dotnetsouthwest/events/303746106/](https://www.meetup.com/dotnetsouthwest/events/303746106/)
 - 2024-10-30 - Adam Prendergast - Speaking at .Net South West meetup in the UK on Astro & Umbraco Content Delivery API - [https://www.meetup.com/dotnetsouthwest/events/303746106/](https://www.meetup.com/dotnetsouthwest/events/303746106/)
 - 2024-10-30 - Busra Sengul - An article about [Managing Stale Carts in Umbraco Commerce](https://dev.to/busrasengul/managing-stale-carts-in-umbraco-commerce-2092)
+- 2024-10-31 - Aaron Sadler - Blog Post - [How to deploy Umbraco using Web Deploy from Azure DevOps](https://umbhost.net/blog/2024/10/how-to-deploy-umbraco-using-web-deploy-from-azure-devops)
 - 2024-10-31 - Carl Sargunar - Speaking at a meetup about Umbraco and Maui - [https://www.meetup.com/umbracymru/events/298562662](https://www.meetup.com/umbracymru/events/298562662)
 - 2024-10-31 - Adam Prendergast - Speaking at UmbraCymru meetup about Astro & Umbraco Content Delivery API - [https://www.meetup.com/umbracymru/events/298562662](https://www.meetup.com/umbracymru/events/298562662)
 
