@@ -64,8 +64,6 @@ Contributions:
 - 2024-10-21 - Bernadet Goey - Umbraco 15 release candidate testing, issue raised - [V15-RC2 URL to document types in settings occasionally gets stuck on /root and it won't show content](https://github.com/umbraco/Umbraco-CMS/issues/17326)
 - 2024-10-25 - Nik Rimington - Blog post introducing [Accessible Media Picker](https://www.justnik.me/blog/introducing-accessible-media-picker-for-umbraco-v13)
 - 2024-10-27 - Nurhak Kaya - An Article about [How to sort items by a custom date in an Umbraco v13+ Examine Index](https://www.nurhakkaya.com/2024/10/how-to-sort-items-by-custom-date-in.html)
-<<<<<<< HEAD
-=======
 - 2024-10-28 - Dhanesh Kumar MJ - Umbraco 15 Release Candidate testing [Media can create without uploading any physical file](https://github.com/umbraco/Umbraco-CMS/issues/17372)
 - 2024-10-28 - Dhanesh Kumar MJ - An Article about [From TinyMCE to TipTap: The Future of Umbraco’s Rich Text Editing](https://medium.com/@dev.mjdhanesh/from-tinymce-to-tiptap-the-future-of-umbracos-rich-text-editing-e09a77317fda)
 - 2024-10-29 - Debasish Gracias - A technical talk - [https://www.linkedin.com/posts/clerkswell_techyon2024-webaccessibility-sustainability-activity-7255579500053245954-sQzI?utm_source=share&utm_medium=member_desktop] - Spoke on sustainability in web design(Umbraco) 
@@ -79,7 +77,6 @@ Contributions:
 - 2024-10-31 - Carl Sargunar - Speaking at a meetup about Umbraco and Maui - [https://www.meetup.com/umbracymru/events/298562662](https://www.meetup.com/umbracymru/events/298562662)
 - 2024-10-31 - Adam Prendergast - Speaking at UmbraCymru meetup about Astro & Umbraco Content Delivery API - [https://www.meetup.com/umbracymru/events/298562662](https://www.meetup.com/umbracymru/events/298562662)
 - 2024-10-31 - Nurhak Kaya - An Article about [How to build a Scalable, Secure, and Performant Umbraco Website on Azure](https://www.nurhakkaya.com/2024/10/how-to-build-scalable-secure-and.html)
->>>>>>> 18e288a855b2526e3ead844d516bf4001910b2fa
 
 ## New Umbraco packages
 
