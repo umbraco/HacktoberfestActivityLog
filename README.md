@@ -79,6 +79,7 @@ Contributions:
 - 2024-10-31 - Adam Prendergast - Speaking at UmbraCymru meetup about Astro & Umbraco Content Delivery API - [https://www.meetup.com/umbracymru/events/298562662](https://www.meetup.com/umbracymru/events/298562662)
 - 2024-10-31 - Nurhak Kaya - An Article about [How to build a Scalable, Secure, and Performant Umbraco Website on Azure](https://www.nurhakkaya.com/2024/10/how-to-build-scalable-secure-and.html)
 - 2024-10-31 - Terence Burridge - Blog Post on Umbraco 12 and 13 performance on Mini PCs - [Umbraco 12 vs Umbraco 13 performance on a variety of mini PCs – 2024 Edition](https://codebuntes.entrah-net.co.uk/2024/10/31/umbraco-12-vs-umbraco-13-performance-on-a-variety-of-mini-pcs-2024-edition/)
+- 2024-11-07 - Tristan Thompson - Umbraco 15 Release Candidate bug raised - [v15rc: Can't allow segmentation on individual properties](https://github.com/umbraco/Umbraco-CMS/issues/17459)
 
 ## New Umbraco packages
 
