@@ -59,7 +59,7 @@ Contributions:
 - 2024-10-17 - Michael Latouche - BUUG Meetup - Co-organized and co-hosted the Belgian Umbraco User Group Meetup - [https://www.meetup.com/belgian-umbraco-user-group/events/302717025](https://www.meetup.com/belgian-umbraco-user-group/events/302717025)
 - 2024-10-17 - Yari Mariën - BUUG Meetup - Co-organized and co-hosted the Belgian Umbraco User Group Meetup - [https://www.meetup.com/belgian-umbraco-user-group/events/302717025](https://www.meetup.com/belgian-umbraco-user-group/events/302717025)
 - 2024-10-17 - Yari Mariën - Spoke about CODECABIN experience at BUUG Meetup.
-- 2024-10-21 - Jesper Mayntzhusen - Skrift Article - [How to do custom import/export actions in Umbraco UI Builder](tbd) - Wrote a Skrift article on how to do custom import/export actions in Umbraco UI Builder
+- 2024-10-21 - Jesper Mayntzhusen - Skrift Article - [How to do custom import/export actions in Umbraco UI Builder](https://skrift.io/issues/creating-a-custom-export-import-action-in-umbraco-ui-builder/) - Wrote a Skrift article on how to do custom import/export actions in Umbraco UI Builder
 - 2024-10-21 - Amalie Wowern - Blog Post - https://blog.knowit.dk/umbraco-8-gaar-ind-i-end-of-life-status
 - 2024-10-21 - Bernadet Goey - Wrote a blog post about communicating with custom API endpoints in Umbraco 14 - [Communicate with a custom API endpoint in Umbraco 14 – Part 1](https://tech.ilionx.com/communicate-with-a-custom-api-endpoint-in-umbraco-14-part-1/)
 - 2024-10-21 - Bernadet Goey - Umbraco 15 release candidate testing, issue raised - [V15-RC2 URL to document types in settings occasionally gets stuck on /root and it won't show content](https://github.com/umbraco/Umbraco-CMS/issues/17326)
