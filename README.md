@@ -84,6 +84,7 @@ Contributions:
 - 2024-11-07 - Tristan Thompson - Umbraco 15 Release Candidate bug raised - [v15rc: Can't allow segmentation on individual properties](https://github.com/umbraco/Umbraco-CMS/issues/17459)
 - 2024-11-07 - Tristan Thompson - Another Umbraco 15 Release Candidate bug raised - [v15rc: Error when trying to save/publish with new RTE + inserted block](https://github.com/umbraco/Umbraco-CMS/issues/17460)
 - 2024-11-14 - Dean Leigh - Helped improve technical SEO for UMB FYI - [https://umb.fyi/](https://umb.fyi/)
+- 2024-11-01 - Afreed - Blog Post on extending OpenID Connect Authentication for Browser Logins(production) in Umbraco 14/15 [Mastering Authorization in Umbraco 14/15: Real-World Management API Challenges and Solutions](https://medium.com/@afreed178/mastering-authorization-in-umbraco-14-15-real-world-management-api-challenges-and-solutions-72048c5d3616)
 
 
 ## New Umbraco packages
